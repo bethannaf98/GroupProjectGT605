@@ -1196,3 +1196,976 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.10-10.18.06:693][ 89]LogSlate: Took 0.002745 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2025.04.10-10.18.11:067][593]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2025.04.10-10.18.12:757][769]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.10-10.21.44:134][654]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 364.078888
+[2025.04.10-10.21.45:133][657]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.10-10.21.45:133][657]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 364.745605, Update Interval: 342.221741
+[2025.04.10-10.23.33:451][151]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s2312574\Downloads\crates/source/crates.fbx)
+[2025.04.10-10.23.33:461][151]LogFbx: Loading FBX Scene from C:\Users\s2312574\Downloads\crates/source/crates.fbx
+[2025.04.10-10.23.33:472][151]LogFbx: FBX Scene Loaded Succesfully
+[2025.04.10-10.23.34:939][151]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.04.10-10.23.35:043][151]LogFbxMaterialImport: Warning: Layered or procedural Textures are not supported (material crates)
+[2025.04.10-10.23.35:043][151]LogFbxMaterialImport: Warning: Layered or procedural Textures are not supported (material crates)
+[2025.04.10-10.23.35:043][151]LogFbxMaterialImport: Warning: Layered or procedural Textures are not supported (material crates)
+[2025.04.10-10.23.35:049][151]LogStaticMesh: Display: Building static mesh crates_cratetall...
+[2025.04.10-10.23.35:057][151]LogStaticMesh: Built static mesh [0.01s] /Game/crates/source/crates_cratetall.crates_cratetall
+[2025.04.10-10.23.35:066][151]LogStaticMesh: Display: Building static mesh crates_cratewide...
+[2025.04.10-10.23.35:077][151]LogStaticMesh: Built static mesh [0.01s] /Game/crates/source/crates_cratewide.crates_cratewide
+[2025.04.10-10.23.35:084][151]LogStaticMesh: Display: Building static mesh crates_cratesmall...
+[2025.04.10-10.23.35:100][151]LogStaticMesh: Built static mesh [0.02s] /Game/crates/source/crates_cratesmall.crates_cratesmall
+[2025.04.10-10.23.35:109][151]LogStaticMesh: Display: Building static mesh crates_barrel...
+[2025.04.10-10.23.35:120][151]LogStaticMesh: Built static mesh [0.01s] /Game/crates/source/crates_barrel.crates_barrel
+[2025.04.10-10.23.35:135][151]LogStaticMesh: Display: Building static mesh crates_cratemerged1...
+[2025.04.10-10.23.35:167][151]LogStaticMesh: Built static mesh [0.03s] /Game/crates/source/crates_cratemerged1.crates_cratemerged1
+[2025.04.10-10.23.35:188][151]LogStaticMesh: Display: Building static mesh crates_cratesmerged2...
+[2025.04.10-10.23.35:252][151]LogStaticMesh: Built static mesh [0.06s] /Game/crates/source/crates_cratesmerged2.crates_cratesmerged2
+[2025.04.10-10.23.35:264][151]LogFbx: Display: Triangulating static mesh piece1
+[2025.04.10-10.23.35:265][151]LogStaticMesh: Display: Building static mesh crates_piece1...
+[2025.04.10-10.23.35:268][151]LogStaticMesh: Built static mesh [0.00s] /Game/crates/source/crates_piece1.crates_piece1
+[2025.04.10-10.23.35:274][151]LogFbx: Display: Triangulating static mesh piece2
+[2025.04.10-10.23.35:275][151]LogStaticMesh: Display: Building static mesh crates_piece2...
+[2025.04.10-10.23.35:280][151]LogStaticMesh: Built static mesh [0.01s] /Game/crates/source/crates_piece2.crates_piece2
+[2025.04.10-10.23.35:286][151]LogFbx: Display: Triangulating static mesh piece2_1
+[2025.04.10-10.23.35:287][151]LogStaticMesh: Display: Building static mesh crates_piece2_1...
+[2025.04.10-10.23.35:305][151]LogStaticMesh: Built static mesh [0.02s] /Game/crates/source/crates_piece2_1.crates_piece2_1
+[2025.04.10-10.23.35:310][151]LogFbx: Display: Triangulating static mesh piece3
+[2025.04.10-10.23.35:311][151]LogStaticMesh: Display: Building static mesh crates_piece3...
+[2025.04.10-10.23.35:323][151]LogStaticMesh: Built static mesh [0.01s] /Game/crates/source/crates_piece3.crates_piece3
+[2025.04.10-10.23.35:327][151]LogFbx: Display: Triangulating static mesh piece1_1
+[2025.04.10-10.23.35:328][151]LogStaticMesh: Display: Building static mesh crates_piece1_1...
+[2025.04.10-10.23.35:346][151]LogStaticMesh: Built static mesh [0.02s] /Game/crates/source/crates_piece1_1.crates_piece1_1
+[2025.04.10-10.23.35:351][151]LogStaticMesh: Display: Building static mesh crates_piece4...
+[2025.04.10-10.23.35:355][151]LogStaticMesh: Built static mesh [0.00s] /Game/crates/source/crates_piece4.crates_piece4
+[2025.04.10-10.23.35:361][151]LogFbx: Display: Triangulating static mesh piece5
+[2025.04.10-10.23.35:362][151]LogStaticMesh: Display: Building static mesh crates_piece5...
+[2025.04.10-10.23.35:374][151]LogStaticMesh: Built static mesh [0.01s] /Game/crates/source/crates_piece5.crates_piece5
+[2025.04.10-10.23.35:374][151]LogStaticMesh: Warning: crates_piece5 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.10-10.23.35:374][151]LogStaticMesh: Warning: crates_piece5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.10-10.23.35:718][151]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'cratesSpecular' was renamed 'cratesSpecular_ncl1_1' 
+[2025.04.10-10.23.35:718][151]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.04.10-10.23.35:718][151]FBXImport: Warning: crates_piece5 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2025.04.10-10.23.35:718][151]FBXImport: Warning: crates_piece5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2025.04.10-10.23.35:782][151]LogInterchangeEngine: [Pending] Importing
+[2025.04.10-10.23.35:782][151]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s2312574/Downloads/crates/textures/cratesAlbedo.png]
+[2025.04.10-10.23.35:782][151]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.10-10.23.35:782][151]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s2312574/Downloads/crates/textures/cratesormal.png]
+[2025.04.10-10.23.35:783][151]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.10-10.23.35:783][151]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s2312574/Downloads/crates/textures/cratesSpecular.png]
+[2025.04.10-10.23.35:955][152]LogTexture: Display: Building textures: /Game/crates/textures/cratesAlbedo.cratesAlbedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.04.10-10.23.36:077][152]LogTexture: Display: Building textures: /Game/crates/textures/cratesSpecular.cratesSpecular (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.04.10-10.23.36:288][152]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.10-10.23.36:354][152]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.04.10-10.23.36:357][152]LogTexture: Display: Building textures: /Game/crates/textures/cratesormal.cratesormal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 426.562488 MB), EncodeSpeed: Fast
+[2025.04.10-10.23.36:456][152]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.10-10.23.36:456][152]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.10-10.23.36:458][153]LogInterchangeEngine: [Success] Import Done
+[2025.04.10-10.23.36:487][153]LogInterchangeEngine: [Success] Import Done
+[2025.04.10-10.23.37:364][193]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.10-10.23.37:942][224]LogShaderCompilers: Display: ================================================
+[2025.04.10-10.23.37:942][224]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.10-10.23.37:942][224]LogShaderCompilers: Display: Total job queries 3,659, among them cache hits 0 (0.00%)
+[2025.04.10-10.23.37:942][224]LogShaderCompilers: Display: Tracking 3,652 distinct input hashes that result in 2,626 distinct outputs (71.91%)
+[2025.04.10-10.23.37:942][224]LogShaderCompilers: Display: RAM used: 67.23 MiB of 1.60 GiB budget. Usage: 4.10%
+[2025.04.10-10.23.37:942][224]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.10-10.23.37:942][224]LogShaderCompilers: Display: Shaders Compiled: 3,652
+[2025.04.10-10.23.37:942][224]LogShaderCompilers: Display: Jobs assigned 3,655, completed 3,652 (99.92%)
+[2025.04.10-10.23.37:942][224]LogShaderCompilers: Display: Average time worker was idle: 6.31 s
+[2025.04.10-10.23.37:942][224]LogShaderCompilers: Display: Time job spent in pending queue: average 40.00 s, longest 86.16 s
+[2025.04.10-10.23.37:942][224]LogShaderCompilers: Display: Job execution time: average 2.40 s, max 11.02 s
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display: Job life time (pending + execution): average 42.43 s, max 89.94
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display: Shader code size: average 38.281 KiB, min 2.086 KiB, max 162.84 KiB
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 97.59 s
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display: Jobs were issued in 426 batches (only local compilation was used), average 8.58 jobs/batch
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display: Average processing rate: 37.42 jobs/sec
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display: Total thread time: 880.568 s
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display: Total thread preprocess time: 105.929 s
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display: Percentage time preprocessing: 12.03%
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display: Effective parallelization: 9.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.95 sec, max 7.13 sec, min 1.06 sec)
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.06 sec, max 3.81 sec, min 2.12 sec)
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.08 sec, max 2.36 sec, min 0.57 sec)
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.07 sec, max 1.07 sec, min 1.07 sec)
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display:                                             FDeferredLightPS - 13.51% of total time (compiled  134 times, average 0.89 sec, max 1.34 sec, min 0.57 sec)
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 6.03% of total time (compiled   96 times, average 0.55 sec, max 1.00 sec, min 0.34 sec)
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.42% of total time (compiled   96 times, average 0.41 sec, max 0.68 sec, min 0.10 sec)
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.12% of total time (compiled  128 times, average 0.28 sec, max 0.71 sec, min 0.08 sec)
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS - 4.05% of total time (compiled   33 times, average 1.08 sec, max 2.36 sec, min 0.57 sec)
+[2025.04.10-10.23.37:943][224]LogShaderCompilers: Display: ================================================
+[2025.04.10-10.23.40:284][429]LogSlate: Window 'Content Browser' being destroyed
+[2025.04.10-10.23.40:288][429]LogSlate: Window 'Content Browser' being destroyed
+[2025.04.10-10.23.42:491][659]LogSlate: Window 'Message Log' being destroyed
+[2025.04.10-10.23.42:495][659]LogSlate: Window 'Message Log' being destroyed
+[2025.04.10-10.23.46:473][ 90]LogStatusBar: Looking status bar with open content browser drawer...
+[2025.04.10-10.23.46:473][ 90]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2025.04.10-10.23.46:491][ 90]LogViewport: Scene viewport resized to 1526x578, mode Windowed.
+[2025.04.10-10.23.53:884][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.04.10-10.23.54:723][803]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.10-10.23.54:737][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.04.10-10.23.54:742][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.10-10.23.54:745][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.04.10-10.23.55:810][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.04.10-10.23.56:612][905]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.10-10.23.56:625][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.04.10-10.23.56:629][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.04.10-10.23.56:634][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.04.10-10.24.05:496][105]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s2312574\Downloads\crates/source/crates.fbx)
+[2025.04.10-10.24.05:506][105]LogFbx: Loading FBX Scene from C:\Users\s2312574\Downloads\crates/source/crates.fbx
+[2025.04.10-10.24.05:515][105]LogFbx: FBX Scene Loaded Succesfully
+[2025.04.10-10.24.13:841][105]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.04.10-10.24.13:912][105]LogFbxMaterialImport: Warning: Layered or procedural Textures are not supported (material crates)
+[2025.04.10-10.24.13:912][105]LogFbxMaterialImport: Warning: Layered or procedural Textures are not supported (material crates)
+[2025.04.10-10.24.13:912][105]LogFbxMaterialImport: Warning: Layered or procedural Textures are not supported (material crates)
+[2025.04.10-10.24.13:928][105]LogFbx: Display: Triangulating static mesh piece1
+[2025.04.10-10.24.13:928][105]LogFbx: Display: Triangulating static mesh piece2
+[2025.04.10-10.24.13:928][105]LogFbx: Display: Triangulating static mesh piece2_1
+[2025.04.10-10.24.13:929][105]LogFbx: Display: Triangulating static mesh piece3
+[2025.04.10-10.24.13:929][105]LogFbx: Display: Triangulating static mesh piece1_1
+[2025.04.10-10.24.13:929][105]LogFbx: Display: Triangulating static mesh piece5
+[2025.04.10-10.24.13:944][105]LogStaticMesh: Display: Building static mesh crates...
+[2025.04.10-10.24.14:043][105]LogStaticMesh: Built static mesh [0.10s] /Game/crates/source/crates/source/crates.crates
+[2025.04.10-10.24.14:058][105]LogStaticMesh: Warning: crates has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.10-10.24.14:058][105]LogStaticMesh: Warning: crates has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.10-10.24.14:073][105]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'cratesSpecular' was renamed 'cratesSpecular_ncl1_1' 
+[2025.04.10-10.24.14:073][105]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.04.10-10.24.14:073][105]FBXImport: Warning: crates has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2025.04.10-10.24.14:073][105]FBXImport: Warning: crates has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2025.04.10-10.24.14:500][105]LogInterchangeEngine: [Pending] Importing
+[2025.04.10-10.24.14:500][105]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s2312574/Downloads/crates/textures/cratesAlbedo.png]
+[2025.04.10-10.24.14:500][105]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.10-10.24.14:500][105]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s2312574/Downloads/crates/textures/cratesormal.png]
+[2025.04.10-10.24.14:502][105]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.10-10.24.14:502][105]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s2312574/Downloads/crates/textures/cratesSpecular.png]
+[2025.04.10-10.24.14:537][106]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.10-10.24.14:623][108]LogTexture: Display: Building textures: /Game/crates/source/crates/textures/cratesSpecular.cratesSpecular (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.04.10-10.24.14:728][108]LogTexture: Display: Building textures: /Game/crates/source/crates/textures/cratesAlbedo.cratesAlbedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2025.04.10-10.24.14:871][108]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.04.10-10.24.14:875][108]LogTexture: Display: Building textures: /Game/crates/source/crates/textures/cratesormal.cratesormal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 426.562488 MB), EncodeSpeed: Fast
+[2025.04.10-10.24.14:994][108]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.10-10.24.14:994][108]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.10-10.24.15:070][108]LogInterchangeEngine: [Success] Import Done
+[2025.04.10-10.24.15:087][109]LogInterchangeEngine: [Success] Import Done
+[2025.04.10-10.24.17:421][310]LogSlate: Window 'Message Log' being destroyed
+[2025.04.10-10.24.17:426][310]LogSlate: Window 'Message Log' being destroyed
+[2025.04.10-10.24.19:285][491]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crates/source/crates/source/crates.crates
+[2025.04.10-10.24.19:285][491]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crates/source/crates/source/crates.crates
+[2025.04.10-10.24.19:285][491]LogActorFactory: Actor Factory spawned StaticMesh /Game/crates/source/crates/source/crates.crates as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_0
+[2025.04.10-10.24.20:245][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crates/source/crates/source/crates.crates
+[2025.04.10-10.24.20:245][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crates/source/crates/source/crates.crates
+[2025.04.10-10.24.20:247][578]LogActorFactory: Actor Factory spawned StaticMesh /Game/crates/source/crates/source/crates.crates as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_A036BC3663A0885D02_1371398639
+[2025.04.10-10.24.20:608][607]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.04.10-10.24.23:873][896]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/crates/source/crates/source/crates1.crates1
+[2025.04.10-10.24.23:879][896]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.10-10.24.23:879][896]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.10-10.24.24:042][896]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.10-10.24.24:042][896]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.10-10.24.24:042][896]MaterialEditorStats: Shader Count: 0
+[2025.04.10-10.24.24:056][896]LogSlate: Took 0.006671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.10-10.24.24:061][896]LogViewport: Scene viewport resized to 242x264, mode Windowed.
+[2025.04.10-10.24.24:177][898]MaterialEditorStats: Base pass shader: 193 instructions
+[2025.04.10-10.24.24:178][898]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.04.10-10.24.24:178][898]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.10-10.24.24:178][898]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.10-10.24.24:178][898]MaterialEditorStats: Shader Count: 4
+[2025.04.10-10.24.32:434][488]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.10-10.24.32:434][488]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.10-10.24.32:434][488]MaterialEditorStats: Shader Count: 0
+[2025.04.10-10.24.32:518][490]MaterialEditorStats: Base pass shader: 193 instructions
+[2025.04.10-10.24.32:518][490]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.04.10-10.24.32:518][490]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.10-10.24.32:518][490]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.10-10.24.32:519][490]MaterialEditorStats: Shader Count: 4
+[2025.04.10-10.24.33:516][565]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.10-10.24.33:516][565]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.10-10.24.33:516][565]MaterialEditorStats: Shader Count: 0
+[2025.04.10-10.24.33:914][594]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.04.10-10.24.33:914][594]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.04.10-10.24.33:914][594]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.10-10.24.33:914][594]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.10-10.24.33:914][594]MaterialEditorStats: Shader Count: 4
+[2025.04.10-10.24.35:722][752]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.10-10.24.35:722][752]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.10-10.24.35:722][752]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.10-10.24.35:722][752]MaterialEditorStats: Shader Count: 0
+[2025.04.10-10.24.36:017][769]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.10-10.24.36:018][769]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.10-10.24.36:018][769]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.10-10.24.36:018][769]MaterialEditorStats: Shader Count: 1
+[2025.04.10-10.24.36:135][779]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.04.10-10.24.36:135][779]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.04.10-10.24.36:135][779]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.10-10.24.36:135][779]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.10-10.24.36:135][779]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.10-10.24.36:135][779]MaterialEditorStats: Shader Count: 4
+[2025.04.10-10.24.37:726][916]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.10-10.24.37:726][916]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.10-10.24.37:726][916]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.10-10.24.37:726][916]MaterialEditorStats: Shader Count: 0
+[2025.04.10-10.24.37:804][918]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.04.10-10.24.37:804][918]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.04.10-10.24.37:804][918]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.10-10.24.37:804][918]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.10-10.24.37:804][918]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.10-10.24.37:804][918]MaterialEditorStats: Shader Count: 4
+[2025.04.10-10.24.39:577][ 91]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.10-10.24.39:577][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.10-10.24.39:577][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.10-10.24.39:577][ 91]MaterialEditorStats: Shader Count: 0
+[2025.04.10-10.24.39:883][111]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.10-10.24.39:884][111]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.10-10.24.39:884][111]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.10-10.24.39:884][111]MaterialEditorStats: Shader Count: 1
+[2025.04.10-10.24.40:007][119]MaterialEditorStats: Base pass shader: 202 instructions
+[2025.04.10-10.24.40:008][119]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.04.10-10.24.40:008][119]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.10-10.24.40:008][119]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.10-10.24.40:008][119]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.10-10.24.40:008][119]MaterialEditorStats: Shader Count: 4
+[2025.04.10-10.24.41:601][250]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.10-10.24.41:601][250]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.10-10.24.41:601][250]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.10-10.24.41:601][250]MaterialEditorStats: Shader Count: 0
+[2025.04.10-10.24.41:680][252]MaterialEditorStats: Base pass shader: 202 instructions
+[2025.04.10-10.24.41:680][252]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.04.10-10.24.41:680][252]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.10-10.24.41:680][252]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.10-10.24.41:680][252]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.10-10.24.41:680][252]MaterialEditorStats: Shader Count: 4
+[2025.04.10-10.24.43:329][414]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.10-10.24.43:329][414]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.10-10.24.43:329][414]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.10-10.24.43:329][414]MaterialEditorStats: Shader Count: 0
+[2025.04.10-10.24.43:662][436]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.10-10.24.43:662][436]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.10-10.24.43:662][436]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.10-10.24.43:662][436]MaterialEditorStats: Shader Count: 1
+[2025.04.10-10.24.43:763][444]MaterialEditorStats: Base pass shader: 205 instructions
+[2025.04.10-10.24.43:763][444]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.04.10-10.24.43:763][444]MaterialEditorStats: Texture samplers: 5/16
+[2025.04.10-10.24.43:763][444]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.10-10.24.43:763][444]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.10-10.24.43:763][444]MaterialEditorStats: Shader Count: 4
+[2025.04.10-10.24.44:783][527]LogMaterialEditor: Saving and Compiling material crates1
+[2025.04.10-10.24.44:919][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.10-10.24.45:621][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.04.10-10.24.45:630][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.10-10.24.46:387][527]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.003982 seconds
+[2025.04.10-10.24.46:389][527]LogSavePackage: Moving output files for package: /Game/crates/source/crates/source/crates1
+[2025.04.10-10.24.46:389][527]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/crates13DDB889547C7C029B5FCE7AAD0B98417.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/crates/source/crates/source/crates1.uasset'
+[2025.04.10-10.24.46:395][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 764 ms
+[2025.04.10-10.24.46:395][527]AssetCheck: New page: Asset Save: crates1
+[2025.04.10-10.24.46:395][527]LogContentValidation: Display: Validating /Script/Engine.Material /Game/crates/source/crates/source/crates1.crates1
+[2025.04.10-10.24.46:397][527]MaterialEditorStats: Base pass shader: 205 instructions
+[2025.04.10-10.24.46:397][527]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.04.10-10.24.46:397][527]MaterialEditorStats: MaxSampler: 254 instructions
+[2025.04.10-10.24.46:397][527]MaterialEditorStats: Texture samplers: 6/16
+[2025.04.10-10.24.46:397][527]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.10-10.24.46:397][527]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.10-10.24.46:397][527]MaterialEditorStats: Shader Count: 16
+[2025.04.10-10.24.47:822][632]LogSlate: Window 'crates1' being destroyed
+[2025.04.10-10.24.47:827][632]LogSlate: Window 'crates1' being destroyed
+[2025.04.10-10.24.47:836][632]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.10-10.24.47:836][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.10-10.24.52:500][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.04.10-10.24.52:505][100]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.10-10.25.06:258][100]LogSlate: Window 'Save Level As' being destroyed
+[2025.04.10-10.25.06:501][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2" FILE="../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.10-10.25.06:514][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.10-10.25.06:527][100]LogSavePackage: Moving output files for package: /Game/Level2
+[2025.04.10-10.25.06:527][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/Level254532D4443DB6DFC2389E39ED9B668F1.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/Level2.umap'
+[2025.04.10-10.25.06:554][100]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Level2_HLOD0_Instancing
+/Game/__ExternalActors__/Level2/7/7W/95ITC9JELXX8WY33WCJKTQ
+/Game/__ExternalObjects__/Level2/4/34/JQDFJ533DYE0T5XGAVOGYE
+/Game/__ExternalObjects__/Level2/5/9C/8A4PNOG7WCX4TT4LGSSEAY
+/Game/__ExternalObjects__/Level2/2/VQ/XBA50IBIPWW9PCGKIYO5DK
+/Game/__ExternalObjects__/Level2/C/F7/UX6DHU73KHNZJE7W9AMO5I
+/Game/__ExternalObjects__/Level2/9/DE/Y7OTBW4TXUEX06G9ER5CA8
+/Game/__ExternalObjects__/Level2/6/SY/TE2TLOJIYVO9N80VCF9XYV
+/Game/__ExternalActors__/Level2/1/11/C25REABNUFPUB21XFFVVOR
+/Game/__ExternalActors__/Level2/7/UO/ANVB7GCHHATB740R61LQBX
+/Game/__ExternalActors__/Level2/3/AI/Z1Z11TBCCZ226W9YS0MG5I
+/Game/__ExternalActors__/Level2/4/NS/1TBHEVPY6WP0NOSND6J7LN
+/Game/__ExternalActors__/Level2/E/BZ/9PUMS12MGJ33Z9VY2GO0YG
+/Game/__ExternalActors__/Level2/4/Z5/NP41I539J0C1ZM25W4VFHD
+/Game/__ExternalActors__/Level2/5/90/S2ER8R11HIH1LPB1T2ZQ4K
+/Game/__ExternalActors__/Level2/2/UV/ZIKUQ54FXRM8XOORGJ5F7Z
+/Game/__ExternalActors__/Level2/0/YV/2EJ3GVSDC6BGQKQKOKFLW6
+/Game/__ExternalActors__/Level2/E/IY/OCAAGN0RKV77UPWN4AIHRO
+/Game/__ExternalActors__/Level2/2/OH/BZHVOUOMSEKUC9RZHEZCZU
+/Game/__ExternalActors__/Level2/0/7B/0KPVOBTUNNLCAJGOZRIA7P
+/Game/__ExternalActors__/Level2/D/BV/PA71768MPVE0KJZOWU1RLD
+/Game/__ExternalActors__/Level2/6/1G/DS2DH58EW0IDT85NEQE6R8
+/Game/__ExternalActors__/Level2/0/CU/FOXA1J7FVZQ6YA5MB0REPB
+/Game/__ExternalActors__/Level2/3/X3/CHSU4G0NOAKKE0QYWXP3JV
+/Game/__ExternalActors__/Level2/B/A8/OH57NNP9QILGLSEMHMTVS7
+/Game/__ExternalActors__/Level2/B/PC/WGUBPPKA21E3FK9CE9JKAE
+/Game/__ExternalActors__/Level2/E/98/Y2Y3U58GMH9OK17TI207BF
+/Game/__ExternalActors__/Level2/C/9M/9ED0QEMKBCR48UZQO3VG2S
+/Game/__ExternalActors__/Level2/6/DQ/XVIQVMRHBMCLJ4G7IHIVNJ
+/Game/__ExternalActors__/Level2/6/6Y/FB3QQV65RFWZO61GKZE6N0
+/Game/__ExternalActors__/Level2/9/M5/EU3Y5BZSPQWSKIKBQ6O9O9
+/Game/__ExternalActors__/Level2/2/0F/AHFO8HPOUXW345IMDDMKAG
+/Game/__ExternalActors__/Level2/1/00/K240FNU3GJ79ANAX0KCPEF
+/Game/__ExternalActors__/Level2/6/E6/JPZLALQOKBNZY2U3ZVNNWK
+/Game/__ExternalActors__/Level2/3/MX/ZMTP19ZIHAJP0Y32XQOF7R
+/Game/__ExternalActors__/Level2/1/NP/0JVV3TD5LJYIOT25HRHRTR
+/Game/__ExternalActors__/Level2/1/ZC/OYCACR1DT28SHG3VOGL87R
+/Game/__ExternalActors__/Level2/A/M2/IAIKQVNL61S8VJV280AUAI
+/Game/__ExternalActors__/Level2/B/QH/9DT6ENXDR7FU3UVGRA6WQ4
+/Game/__ExternalActors__/Level2/2/2P/NPO06JP8SM9NU7J6BGE35W
+/Game/__ExternalActors__/Level2/3/P5/NE3556ZUY2N11EST25B7FU
+/Game/__ExternalActors__/Level2/B/CD/BWYE4OB36E6SCOEW6OGA8X
+/Game/__ExternalActors__/Level2/4/P1/4QP45CLTIGYY51VQWRTK7N
+/Game/__ExternalActors__/Level2/A/4M/48G5WBJ8GDJOOT4TJMNO3Z
+/Game/__ExternalActors__/Level2/4/Z6/4OMV48EPU05W1RUQC97W80
+/Game/__ExternalActors__/Level2/A/2K/05E2SQ84AB4FW0FKIP3CFJ
+/Game/__ExternalActors__/Level2/4/0V/8A18E5WI1IZM4YS4Z7GX18
+/Game/__ExternalActors__/Level2/2/GG/9ZFPJA54HV0Y70WWQ2WIML
+/Game/__ExternalActors__/Level2/2/YP/RVKD1T47YF0B9B0ZZE77H7
+/Game/__ExternalActors__/Level2/6/UQ/80FXBU8IP1RLOAVK1E78JN
+/Game/__ExternalActors__/Level2/E/27/XP0H4BC7CA9XY2EPB969BM
+/Game/__ExternalActors__/Level2/B/H6/HDNW5MDHXVLUZ9MBD2AESX
+/Game/__ExternalActors__/Level2/5/S0/N7AI4SIUQTRYY63VWQOXZ9
+/Game/__ExternalActors__/Level2/1/8Y/COO2442QGSDUEBQC1WQ884
+/Game/__ExternalActors__/Level2/B/BK/TC4W1LTJM04NPR103YG2JC
+/Game/__ExternalActors__/Level2/3/QH/TK5DVRV0XOLAO8PZBDEOG9
+/Game/__ExternalActors__/Level2/9/JO/TMKUY28XAAS9T4IP2OP0R6
+/Game/__ExternalActors__/Level2/0/E8/YVFDI5MZNWR40BN5697L8S
+/Game/__ExternalActors__/Level2/E/WC/EWFMRZ66G2KKPFULM78MMY
+/Game/__ExternalActors__/Level2/D/1C/MF6U4T6ZNQYIASE5DG9BB6
+/Game/__ExternalActors__/Level2/8/SJ/W3UXB9D59TE5A29QG5P1ZZ
+/Game/__ExternalActors__/Level2/D/G3/EMN6XPR6AZLAXKAWXDODHG
+/Game/__ExternalActors__/Level2/E/OF/52O2MPIB1YBSWUV903GVK7
+/Game/__ExternalActors__/Level2/6/XM/L03PA9ID50FOZO4E26WSS2
+/Game/__ExternalActors__/Level2/1/CD/UYA4IRIHA8HUX725PRI2E0
+/Game/__ExternalActors__/Level2/B/O3/HQO5RJEDA15W2CFXGP60TG
+/Game/__ExternalActors__/Level2/D/B0/HK3PRYZ7ST4I55VGGTT086
+/Game/__ExternalActors__/Level2/6/JG/WSLP5XG1NI8NS41JQVO0ZL
+/Game/__ExternalActors__/Level2/B/06/6AEU20K3O6PI8ZDSX05NBO
+/Game/__ExternalActors__/Level2/7/8M/9TAYQNRWPYGDH73NN7C6VA
+/Game/__ExternalActors__/Level2/6/RS/7ETBW3WUI11YDR1N80AE4Y
+/Game/__ExternalActors__/Level2/2/0H/FL5W1245YIG78V6US0X217
+/Game/__ExternalActors__/Level2/7/QW/YC8KLGIVHH3CX2H8OCS7PK
+/Game/__ExternalActors__/Level2/F/2U/8DIRFWTXN6ZM1UCAVOJHEQ
+/Game/__ExternalActors__/Level2/C/MC/FM7Y2YPC25IXK3DI932846
+/Game/__ExternalActors__/Level2/B/4P/2HUYGRD7DDGL7IBM8SAH6W
+/Game/__ExternalActors__/Level2/C/8Q/4KQS6LGLC5MCGWXPM9C2SQ
+/Game/__ExternalActors__/Level2/A/6W/8PBJMQRYV8SW3IPU8TCOFO
+/Game/__ExternalActors__/Level2/0/YA/ABPYSDA7SLBCJXBOVOV50I
+/Game/__ExternalActors__/Level2/0/PL/CXWPKS26G4TY6ILDPA6YNR
+/Game/__ExternalActors__/Level2/7/U6/OCQZNLCAO9FTES2HYFUITV
+/Game/__ExternalActors__/Level2/4/UM/HIGS7VNR08XRT533S06WUV
+/Game/__ExternalActors__/Level2/0/AG/B9MTLMH2R1U139QQ9F2TOU
+/Game/__ExternalActors__/Level2/2/B4/YXJZTCJ7YSOTI9DRJHO1FJ
+/Game/__ExternalActors__/Level2/C/N3/K92M9A9FVC8RSCOLPIG1KM
+/Game/__ExternalActors__/Level2/B/D5/AWGQTETO7RI9BUAK02XXOS
+/Game/__ExternalActors__/Level2/D/21/K1R8WK2RBYO12IBKF1BGLS
+/Game/__ExternalActors__/Level2/8/3T/4REO60LFW2NZ8V6Z50BWBE
+/Game/__ExternalActors__/Level2/6/L9/TZXJ9NR25KSVACTZB712ML
+/Game/__ExternalActors__/Level2/0/DS/BA0SMPG7U1N2H6QA65CYFB
+/Game/__ExternalActors__/Level2/4/3R/H9WBRRMG2ULOQD23LPR0YR
+/Game/__ExternalActors__/Level2/7/XZ/HIDLAKKIVM079X08XMOLNW
+/Game/__ExternalActors__/Level2/4/9M/1R3XYE6ZL8W2L8ZNBI31LY
+/Game/__ExternalActors__/Level2/2/NC/IJ6ENAN4WEFPH54KYN9SP0
+/Game/__ExternalActors__/Level2/2/VZ/HFQKHM9598IB8VXFX4E1BB
+/Game/__ExternalActors__/Level2/1/AB/IE424BJ1W6U9THOU26ZANW
+/Game/__ExternalActors__/Level2/7/MZ/EPMQ31IMYXMEQSCNUOUZH9
+/Game/__ExternalActors__/Level2/0/Q5/KW25WBR2BFU1O8UH4E7VKJ
+/Game/__ExternalActors__/Level2/4/HX/7QRL1NL2JADRAUCH9V7DS7
+/Game/__ExternalActors__/Level2/E/JC/Y9K163PK1V4W4WEBOFJGJS
+/Game/__ExternalActors__/Level2/A/EN/PDV78ZJ40TIEV4TBKZGS5G
+/Game/__ExternalActors__/Level2/5/I0/LKMYASQ8J1UWTWPY6EEYI9
+/Game/__ExternalActors__/Level2/8/BU/NANZAQEB7EN5JD34ON3HAU
+/Game/__ExternalActors__/Level2/3/QS/F203B2IUZPZ3UWCPB5585E
+/Game/__ExternalActors__/Level2/8/3D/1ALJSW76JQFRCJGOMD1K85
+/Game/__ExternalActors__/Level2/B/6G/A8IXTAU21HG8LAJU0AURN5
+/Game/__ExternalActors__/Level2/6/5X/QWHJX1RSJ6221Y9TP0L9TM
+/Game/__ExternalActors__/Level2/1/E3/RYQ6RVXKMS3X4ADWBE7EYW
+/Game/__ExternalActors__/Level2/9/EM/C8VRKEM1GIKLV43UWYVT6D
+/Game/__ExternalActors__/Level2/B/YS/95BWL3BBYOGJ912BGOR8QH
+/Game/__ExternalActors__/Level2/4/QO/ZCCYT49TXSV8YPVV8QXG7M
+/Game/__ExternalActors__/Level2/3/PI/23BMSDBNER8KSBI5ZXXGYR
+/Game/__ExternalActors__/Level2/C/GC/B9NR1ME8WRE0HO7BGDGILD
+/Game/__ExternalActors__/Level2/1/16/KDZM9EUUWAF2AQL5QGO85Z
+/Game/__ExternalActors__/Level2/C/QZ/M5CNDFIWIF2JUJXBLD2Y0V
+/Game/__ExternalActors__/Level2/1/NM/RDLA2YRPBK0IQTKJFMMXOU
+/Game/__ExternalActors__/Level2/6/ZH/I95BCDNL5F4E2T6804EQRP
+/Game/__ExternalActors__/Level2/2/A0/U7IBUXG4U8YIKEPLFMN4SU
+/Game/__ExternalActors__/Level2/2/1M/3ZEAINP3JJ9FH3RRWL7UJ9
+/Game/__ExternalActors__/Level2/5/RB/6O38GF4BYFBEUV2W61NHAZ
+/Game/__ExternalActors__/Level2/C/BZ/AO291QHWNPXEYNJMLMXSFZ
+/Game/__ExternalActors__/Level2/8/QA/K93ZJZYRIEWIAFNIYKDN7N
+/Game/__ExternalActors__/Level2/6/QX/U8MLOL5Q4F9UNSSFPJSCRA
+/Game/__ExternalActors__/Level2/C/2W/HQW6Z0077DIAZD7QM0SZOC
+/Game/__ExternalActors__/Level2/9/9Q/OWWJ7ISWVURBV74ADUUYZC
+/Game/__ExternalActors__/Level2/C/X8/U46AOQB50UXA2E83RTLYTS
+/Game/__ExternalActors__/Level2/5/KW/TXGCQPDVM1E949N9GWKW43
+/Game/__ExternalActors__/Level2/8/QD/QDEFZ102OXKKSIAI8GU0X2
+/Game/__ExternalActors__/Level2/2/2B/17IAXYR3DH3695OGG7HMM7
+/Game/__ExternalActors__/Level2/D/O9/KVH92R0P7BPC529YXDPCC9
+/Game/__ExternalActors__/Level2/1/FU/IOEU4TEESF4QNZA21NG9W8
+[2025.04.10-10.25.06:554][100]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.10-10.25.06:554][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2_HLOD0_Instancing" FILE="../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/Level2_HLOD0_Instancing.uasset" SILENT=true
+[2025.04.10-10.25.06:556][100]LogSavePackage: Moving output files for package: /Game/Level2_HLOD0_Instancing
+[2025.04.10-10.25.06:556][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/Level2_HLOD0_InstancingECDB07684A29EE41877ED2BFD37F546C.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/Level2_HLOD0_Instancing.uasset'
+[2025.04.10-10.25.06:558][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/7/7W/95ITC9JELXX8WY33WCJKTQ
+[2025.04.10-10.25.06:558][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/95ITC9JELXX8WY33WCJKTQDE5C438446BDD611F6E5FCA54EF8CDA6.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/7/7W/95ITC9JELXX8WY33WCJKTQ.uasset'
+[2025.04.10-10.25.06:563][100]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Level2/4/34/JQDFJ533DYE0T5XGAVOGYE
+[2025.04.10-10.25.06:563][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/JQDFJ533DYE0T5XGAVOGYEC62EE4D64F82E404EA5BB4BD5C59CEF9.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalObjects__/Level2/4/34/JQDFJ533DYE0T5XGAVOGYE.uasset'
+[2025.04.10-10.25.06:567][100]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Level2/5/9C/8A4PNOG7WCX4TT4LGSSEAY
+[2025.04.10-10.25.06:567][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/8A4PNOG7WCX4TT4LGSSEAY5FA558C7413FB91DD86425A48B606054.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalObjects__/Level2/5/9C/8A4PNOG7WCX4TT4LGSSEAY.uasset'
+[2025.04.10-10.25.06:569][100]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Level2/2/VQ/XBA50IBIPWW9PCGKIYO5DK
+[2025.04.10-10.25.06:569][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/XBA50IBIPWW9PCGKIYO5DK58E16CEC4365FD1EF91C2F969765F8CD.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalObjects__/Level2/2/VQ/XBA50IBIPWW9PCGKIYO5DK.uasset'
+[2025.04.10-10.25.06:573][100]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Level2/C/F7/UX6DHU73KHNZJE7W9AMO5I
+[2025.04.10-10.25.06:573][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/UX6DHU73KHNZJE7W9AMO5I55E8C0464FAB2FB357FCD3811716E4A5.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalObjects__/Level2/C/F7/UX6DHU73KHNZJE7W9AMO5I.uasset'
+[2025.04.10-10.25.06:577][100]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Level2/9/DE/Y7OTBW4TXUEX06G9ER5CA8
+[2025.04.10-10.25.06:577][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/Y7OTBW4TXUEX06G9ER5CA88EC23C2147355E58D2AD459E0D48146D.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalObjects__/Level2/9/DE/Y7OTBW4TXUEX06G9ER5CA8.uasset'
+[2025.04.10-10.25.06:579][100]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Level2/6/SY/TE2TLOJIYVO9N80VCF9XYV
+[2025.04.10-10.25.06:579][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/TE2TLOJIYVO9N80VCF9XYVC9C7B14A46631972D7A160A80C7AC9B1.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalObjects__/Level2/6/SY/TE2TLOJIYVO9N80VCF9XYV.uasset'
+[2025.04.10-10.25.06:585][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/1/11/C25REABNUFPUB21XFFVVOR
+[2025.04.10-10.25.06:585][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/C25REABNUFPUB21XFFVVOR0BB0F77B43E99A59278CFB8D687392F4.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/1/11/C25REABNUFPUB21XFFVVOR.uasset'
+[2025.04.10-10.25.06:588][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/7/UO/ANVB7GCHHATB740R61LQBX
+[2025.04.10-10.25.06:588][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/ANVB7GCHHATB740R61LQBX155D58684D927797352A97B64A4D3B6F.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/7/UO/ANVB7GCHHATB740R61LQBX.uasset'
+[2025.04.10-10.25.06:592][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/3/AI/Z1Z11TBCCZ226W9YS0MG5I
+[2025.04.10-10.25.06:592][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/Z1Z11TBCCZ226W9YS0MG5I2B7DD3E248C618D693D0AFA39D2FF291.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/3/AI/Z1Z11TBCCZ226W9YS0MG5I.uasset'
+[2025.04.10-10.25.06:595][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/4/NS/1TBHEVPY6WP0NOSND6J7LN
+[2025.04.10-10.25.06:595][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/1TBHEVPY6WP0NOSND6J7LN83BD3B194D122C713764C888712FD89E.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/4/NS/1TBHEVPY6WP0NOSND6J7LN.uasset'
+[2025.04.10-10.25.06:599][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/E/BZ/9PUMS12MGJ33Z9VY2GO0YG
+[2025.04.10-10.25.06:599][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/9PUMS12MGJ33Z9VY2GO0YG5315195B4163602A7AD43390DB0C2CC1.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/E/BZ/9PUMS12MGJ33Z9VY2GO0YG.uasset'
+[2025.04.10-10.25.06:602][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/4/Z5/NP41I539J0C1ZM25W4VFHD
+[2025.04.10-10.25.06:602][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/NP41I539J0C1ZM25W4VFHDEDBB1ED545DD8DAEC8F9ABA9758BCED4.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/4/Z5/NP41I539J0C1ZM25W4VFHD.uasset'
+[2025.04.10-10.25.06:604][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/5/90/S2ER8R11HIH1LPB1T2ZQ4K
+[2025.04.10-10.25.06:604][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/S2ER8R11HIH1LPB1T2ZQ4K2878F6554A2F907E8E0E55B275AD9EB8.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/5/90/S2ER8R11HIH1LPB1T2ZQ4K.uasset'
+[2025.04.10-10.25.06:607][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/2/UV/ZIKUQ54FXRM8XOORGJ5F7Z
+[2025.04.10-10.25.06:607][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/ZIKUQ54FXRM8XOORGJ5F7Z4646C86641E4CB744E94F4BF004B7742.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/2/UV/ZIKUQ54FXRM8XOORGJ5F7Z.uasset'
+[2025.04.10-10.25.06:610][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/0/YV/2EJ3GVSDC6BGQKQKOKFLW6
+[2025.04.10-10.25.06:610][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/2EJ3GVSDC6BGQKQKOKFLW645BBAADE495AF0C21463589843D84B6F.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/0/YV/2EJ3GVSDC6BGQKQKOKFLW6.uasset'
+[2025.04.10-10.25.06:634][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/E/IY/OCAAGN0RKV77UPWN4AIHRO
+[2025.04.10-10.25.06:634][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/OCAAGN0RKV77UPWN4AIHRO0C285DAD4FC581FB25332B82965331C4.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/E/IY/OCAAGN0RKV77UPWN4AIHRO.uasset'
+[2025.04.10-10.25.06:656][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/2/OH/BZHVOUOMSEKUC9RZHEZCZU
+[2025.04.10-10.25.06:656][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/BZHVOUOMSEKUC9RZHEZCZUDC91AADE40245913F6CA5FBEDE1A1571.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/2/OH/BZHVOUOMSEKUC9RZHEZCZU.uasset'
+[2025.04.10-10.25.06:674][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/0/7B/0KPVOBTUNNLCAJGOZRIA7P
+[2025.04.10-10.25.06:674][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/0KPVOBTUNNLCAJGOZRIA7P3EC5B7A843362C7014C55FBAC8CFCCAB.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/0/7B/0KPVOBTUNNLCAJGOZRIA7P.uasset'
+[2025.04.10-10.25.06:703][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/D/BV/PA71768MPVE0KJZOWU1RLD
+[2025.04.10-10.25.06:703][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/PA71768MPVE0KJZOWU1RLDDEA24CA4478746F8163B5F8D8CC1C1E0.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/D/BV/PA71768MPVE0KJZOWU1RLD.uasset'
+[2025.04.10-10.25.06:737][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/6/1G/DS2DH58EW0IDT85NEQE6R8
+[2025.04.10-10.25.06:737][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/DS2DH58EW0IDT85NEQE6R8254F4A2341802CC1DCBE8B93597E5F58.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/6/1G/DS2DH58EW0IDT85NEQE6R8.uasset'
+[2025.04.10-10.25.06:758][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/0/CU/FOXA1J7FVZQ6YA5MB0REPB
+[2025.04.10-10.25.06:758][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/FOXA1J7FVZQ6YA5MB0REPB7E445A03455A0E2179A96F88BF03759B.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/0/CU/FOXA1J7FVZQ6YA5MB0REPB.uasset'
+[2025.04.10-10.25.06:777][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/3/X3/CHSU4G0NOAKKE0QYWXP3JV
+[2025.04.10-10.25.06:777][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/CHSU4G0NOAKKE0QYWXP3JVEF958A0744DD7EECA06017B684C379D6.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/3/X3/CHSU4G0NOAKKE0QYWXP3JV.uasset'
+[2025.04.10-10.25.06:800][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/B/A8/OH57NNP9QILGLSEMHMTVS7
+[2025.04.10-10.25.06:800][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/OH57NNP9QILGLSEMHMTVS792A616354311630BD4B9DB8EC10D00B0.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/B/A8/OH57NNP9QILGLSEMHMTVS7.uasset'
+[2025.04.10-10.25.06:819][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/B/PC/WGUBPPKA21E3FK9CE9JKAE
+[2025.04.10-10.25.06:819][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/WGUBPPKA21E3FK9CE9JKAE4336AE9B43D243A605EAE8921F3E3B1E.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/B/PC/WGUBPPKA21E3FK9CE9JKAE.uasset'
+[2025.04.10-10.25.06:839][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/E/98/Y2Y3U58GMH9OK17TI207BF
+[2025.04.10-10.25.06:839][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/Y2Y3U58GMH9OK17TI207BF199ACAA244FB3FBA1ECECC8379AD9665.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/E/98/Y2Y3U58GMH9OK17TI207BF.uasset'
+[2025.04.10-10.25.06:858][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/C/9M/9ED0QEMKBCR48UZQO3VG2S
+[2025.04.10-10.25.06:858][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/9ED0QEMKBCR48UZQO3VG2S135986BA41911879B6A1408B418AAF37.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/C/9M/9ED0QEMKBCR48UZQO3VG2S.uasset'
+[2025.04.10-10.25.06:878][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/6/DQ/XVIQVMRHBMCLJ4G7IHIVNJ
+[2025.04.10-10.25.06:878][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/XVIQVMRHBMCLJ4G7IHIVNJAAF5D7954E08C1C5F3CFC2A1F2DD0B6D.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/6/DQ/XVIQVMRHBMCLJ4G7IHIVNJ.uasset'
+[2025.04.10-10.25.06:908][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/6/6Y/FB3QQV65RFWZO61GKZE6N0
+[2025.04.10-10.25.06:908][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/FB3QQV65RFWZO61GKZE6N05B775DE2483753F279717D965A4531A6.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/6/6Y/FB3QQV65RFWZO61GKZE6N0.uasset'
+[2025.04.10-10.25.06:929][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/9/M5/EU3Y5BZSPQWSKIKBQ6O9O9
+[2025.04.10-10.25.06:929][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/EU3Y5BZSPQWSKIKBQ6O9O97F7530D14402CDBA82E6ED9D9BB68877.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/9/M5/EU3Y5BZSPQWSKIKBQ6O9O9.uasset'
+[2025.04.10-10.25.06:954][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/2/0F/AHFO8HPOUXW345IMDDMKAG
+[2025.04.10-10.25.06:954][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/AHFO8HPOUXW345IMDDMKAG011B0D4B461EC18D13B3F1AA8B9949A0.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/2/0F/AHFO8HPOUXW345IMDDMKAG.uasset'
+[2025.04.10-10.25.06:976][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/1/00/K240FNU3GJ79ANAX0KCPEF
+[2025.04.10-10.25.06:976][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/K240FNU3GJ79ANAX0KCPEF7AF919CD40F10E369007FE9257129C42.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/1/00/K240FNU3GJ79ANAX0KCPEF.uasset'
+[2025.04.10-10.25.07:007][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/6/E6/JPZLALQOKBNZY2U3ZVNNWK
+[2025.04.10-10.25.07:007][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/JPZLALQOKBNZY2U3ZVNNWK30777A454F0CF44B28489FA480F4AB03.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/6/E6/JPZLALQOKBNZY2U3ZVNNWK.uasset'
+[2025.04.10-10.25.07:038][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/3/MX/ZMTP19ZIHAJP0Y32XQOF7R
+[2025.04.10-10.25.07:038][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/ZMTP19ZIHAJP0Y32XQOF7RD8FDF68B4A4BF514EC41B3B4AEAED069.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/3/MX/ZMTP19ZIHAJP0Y32XQOF7R.uasset'
+[2025.04.10-10.25.07:063][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/1/NP/0JVV3TD5LJYIOT25HRHRTR
+[2025.04.10-10.25.07:063][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/0JVV3TD5LJYIOT25HRHRTR7B0B85264980FFC4AED9E38641D52534.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/1/NP/0JVV3TD5LJYIOT25HRHRTR.uasset'
+[2025.04.10-10.25.07:085][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/1/ZC/OYCACR1DT28SHG3VOGL87R
+[2025.04.10-10.25.07:085][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/OYCACR1DT28SHG3VOGL87RB2BAB3B140858142E7E9D5882C8D8D61.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/1/ZC/OYCACR1DT28SHG3VOGL87R.uasset'
+[2025.04.10-10.25.07:115][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/A/M2/IAIKQVNL61S8VJV280AUAI
+[2025.04.10-10.25.07:115][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/IAIKQVNL61S8VJV280AUAIBA22840847C72D0C845A59BEDF365788.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/A/M2/IAIKQVNL61S8VJV280AUAI.uasset'
+[2025.04.10-10.25.07:141][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/B/QH/9DT6ENXDR7FU3UVGRA6WQ4
+[2025.04.10-10.25.07:141][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/9DT6ENXDR7FU3UVGRA6WQ4A8A3442D4A861DE129306099AEF2BBFB.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/B/QH/9DT6ENXDR7FU3UVGRA6WQ4.uasset'
+[2025.04.10-10.25.07:178][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/2/2P/NPO06JP8SM9NU7J6BGE35W
+[2025.04.10-10.25.07:178][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/NPO06JP8SM9NU7J6BGE35WEFBAE6A5489DDD28D8ABDCB708E6BD3A.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/2/2P/NPO06JP8SM9NU7J6BGE35W.uasset'
+[2025.04.10-10.25.07:205][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/3/P5/NE3556ZUY2N11EST25B7FU
+[2025.04.10-10.25.07:205][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/NE3556ZUY2N11EST25B7FUC0B8C0B7424E6D2C5425B08FC84FBF32.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/3/P5/NE3556ZUY2N11EST25B7FU.uasset'
+[2025.04.10-10.25.07:227][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/B/CD/BWYE4OB36E6SCOEW6OGA8X
+[2025.04.10-10.25.07:227][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/BWYE4OB36E6SCOEW6OGA8X74156AF3430F39C68512609A26149920.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/B/CD/BWYE4OB36E6SCOEW6OGA8X.uasset'
+[2025.04.10-10.25.07:247][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/4/P1/4QP45CLTIGYY51VQWRTK7N
+[2025.04.10-10.25.07:247][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/4QP45CLTIGYY51VQWRTK7NC79B7D3C4A854EDE5C3E58A198A2F6B0.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/4/P1/4QP45CLTIGYY51VQWRTK7N.uasset'
+[2025.04.10-10.25.07:265][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/A/4M/48G5WBJ8GDJOOT4TJMNO3Z
+[2025.04.10-10.25.07:265][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/48G5WBJ8GDJOOT4TJMNO3Z1B5E5D784C674DA054A40096F1726748.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/A/4M/48G5WBJ8GDJOOT4TJMNO3Z.uasset'
+[2025.04.10-10.25.07:286][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/4/Z6/4OMV48EPU05W1RUQC97W80
+[2025.04.10-10.25.07:286][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/4OMV48EPU05W1RUQC97W80D7BC72154D0A145153B30081A8EC62E8.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/4/Z6/4OMV48EPU05W1RUQC97W80.uasset'
+[2025.04.10-10.25.07:313][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/A/2K/05E2SQ84AB4FW0FKIP3CFJ
+[2025.04.10-10.25.07:313][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/05E2SQ84AB4FW0FKIP3CFJ4FFECD3A472B76BE4C8347B48482DCB3.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/A/2K/05E2SQ84AB4FW0FKIP3CFJ.uasset'
+[2025.04.10-10.25.07:349][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/4/0V/8A18E5WI1IZM4YS4Z7GX18
+[2025.04.10-10.25.07:349][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/8A18E5WI1IZM4YS4Z7GX183A6207374388C14E15364CBF256AF793.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/4/0V/8A18E5WI1IZM4YS4Z7GX18.uasset'
+[2025.04.10-10.25.07:377][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/2/GG/9ZFPJA54HV0Y70WWQ2WIML
+[2025.04.10-10.25.07:377][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/9ZFPJA54HV0Y70WWQ2WIML4B5C1F0E4C72BAF16BC6DDA9F4CF29EC.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/2/GG/9ZFPJA54HV0Y70WWQ2WIML.uasset'
+[2025.04.10-10.25.07:405][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/2/YP/RVKD1T47YF0B9B0ZZE77H7
+[2025.04.10-10.25.07:405][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/RVKD1T47YF0B9B0ZZE77H764A3357E45857D6DAC58BFBAD6C1A1FA.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/2/YP/RVKD1T47YF0B9B0ZZE77H7.uasset'
+[2025.04.10-10.25.07:424][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/6/UQ/80FXBU8IP1RLOAVK1E78JN
+[2025.04.10-10.25.07:424][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/80FXBU8IP1RLOAVK1E78JN6A6988E0469E92945CB4B2BD4A66C069.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/6/UQ/80FXBU8IP1RLOAVK1E78JN.uasset'
+[2025.04.10-10.25.07:445][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/E/27/XP0H4BC7CA9XY2EPB969BM
+[2025.04.10-10.25.07:445][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/XP0H4BC7CA9XY2EPB969BM42B5AB5F46C6C39298A5D9A4555131FE.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/E/27/XP0H4BC7CA9XY2EPB969BM.uasset'
+[2025.04.10-10.25.07:495][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/B/H6/HDNW5MDHXVLUZ9MBD2AESX
+[2025.04.10-10.25.07:495][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/HDNW5MDHXVLUZ9MBD2AESXB5C821DC4049F9E0C51E37993FC4BD63.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/B/H6/HDNW5MDHXVLUZ9MBD2AESX.uasset'
+[2025.04.10-10.25.07:550][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/5/S0/N7AI4SIUQTRYY63VWQOXZ9
+[2025.04.10-10.25.07:550][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/N7AI4SIUQTRYY63VWQOXZ99089BCA14D457A59053688AF2EBC8A30.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/5/S0/N7AI4SIUQTRYY63VWQOXZ9.uasset'
+[2025.04.10-10.25.07:590][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/1/8Y/COO2442QGSDUEBQC1WQ884
+[2025.04.10-10.25.07:591][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/COO2442QGSDUEBQC1WQ884C694E0364FCAD00A1C8C9B92921D20FB.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/1/8Y/COO2442QGSDUEBQC1WQ884.uasset'
+[2025.04.10-10.25.07:609][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/B/BK/TC4W1LTJM04NPR103YG2JC
+[2025.04.10-10.25.07:610][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/TC4W1LTJM04NPR103YG2JCF1FBBDD74537811C2B7ACA838492581C.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/B/BK/TC4W1LTJM04NPR103YG2JC.uasset'
+[2025.04.10-10.25.07:630][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/3/QH/TK5DVRV0XOLAO8PZBDEOG9
+[2025.04.10-10.25.07:630][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/TK5DVRV0XOLAO8PZBDEOG970407905468C7EF9A4B6488689A1E35B.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/3/QH/TK5DVRV0XOLAO8PZBDEOG9.uasset'
+[2025.04.10-10.25.07:658][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/9/JO/TMKUY28XAAS9T4IP2OP0R6
+[2025.04.10-10.25.07:658][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/TMKUY28XAAS9T4IP2OP0R6DF011B804AECBE7A0D14718B4005838F.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/9/JO/TMKUY28XAAS9T4IP2OP0R6.uasset'
+[2025.04.10-10.25.07:677][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/0/E8/YVFDI5MZNWR40BN5697L8S
+[2025.04.10-10.25.07:677][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/YVFDI5MZNWR40BN5697L8S60C2F2B04DCF11A085F429AC867F0652.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/0/E8/YVFDI5MZNWR40BN5697L8S.uasset'
+[2025.04.10-10.25.07:695][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/E/WC/EWFMRZ66G2KKPFULM78MMY
+[2025.04.10-10.25.07:695][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/EWFMRZ66G2KKPFULM78MMY192F91B34B5825931E620A9E5CF6AC95.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/E/WC/EWFMRZ66G2KKPFULM78MMY.uasset'
+[2025.04.10-10.25.07:719][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/D/1C/MF6U4T6ZNQYIASE5DG9BB6
+[2025.04.10-10.25.07:719][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/MF6U4T6ZNQYIASE5DG9BB649EC79584B86A9B7B592FC8BB251D990.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/D/1C/MF6U4T6ZNQYIASE5DG9BB6.uasset'
+[2025.04.10-10.25.07:747][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/8/SJ/W3UXB9D59TE5A29QG5P1ZZ
+[2025.04.10-10.25.07:747][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/W3UXB9D59TE5A29QG5P1ZZABC412F0437B8176EC512EBC3D17684F.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/8/SJ/W3UXB9D59TE5A29QG5P1ZZ.uasset'
+[2025.04.10-10.25.07:769][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/D/G3/EMN6XPR6AZLAXKAWXDODHG
+[2025.04.10-10.25.07:769][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/EMN6XPR6AZLAXKAWXDODHGC5C857CC4EBB476342C2BFBB73646931.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/D/G3/EMN6XPR6AZLAXKAWXDODHG.uasset'
+[2025.04.10-10.25.07:807][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/E/OF/52O2MPIB1YBSWUV903GVK7
+[2025.04.10-10.25.07:807][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/52O2MPIB1YBSWUV903GVK71C8B1F1A4D6EF0512A2EED902A828580.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/E/OF/52O2MPIB1YBSWUV903GVK7.uasset'
+[2025.04.10-10.25.07:837][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/6/XM/L03PA9ID50FOZO4E26WSS2
+[2025.04.10-10.25.07:837][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/L03PA9ID50FOZO4E26WSS2D0307EF3440FACE43F4EFBBC494DF0B6.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/6/XM/L03PA9ID50FOZO4E26WSS2.uasset'
+[2025.04.10-10.25.07:862][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/1/CD/UYA4IRIHA8HUX725PRI2E0
+[2025.04.10-10.25.07:862][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/UYA4IRIHA8HUX725PRI2E0D915E4B541D3CA24DEA0D580A718B3DD.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/1/CD/UYA4IRIHA8HUX725PRI2E0.uasset'
+[2025.04.10-10.25.07:883][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/B/O3/HQO5RJEDA15W2CFXGP60TG
+[2025.04.10-10.25.07:884][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/HQO5RJEDA15W2CFXGP60TG0E3DEF7643D52D698E275280B21FC425.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/B/O3/HQO5RJEDA15W2CFXGP60TG.uasset'
+[2025.04.10-10.25.07:904][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/D/B0/HK3PRYZ7ST4I55VGGTT086
+[2025.04.10-10.25.07:904][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/HK3PRYZ7ST4I55VGGTT086A07AE86547DFCBFD050911844B89E9BE.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/D/B0/HK3PRYZ7ST4I55VGGTT086.uasset'
+[2025.04.10-10.25.07:926][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/6/JG/WSLP5XG1NI8NS41JQVO0ZL
+[2025.04.10-10.25.07:926][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/WSLP5XG1NI8NS41JQVO0ZL56292A144DA8AAA975C453BCFE56CD00.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/6/JG/WSLP5XG1NI8NS41JQVO0ZL.uasset'
+[2025.04.10-10.25.07:947][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/B/06/6AEU20K3O6PI8ZDSX05NBO
+[2025.04.10-10.25.07:947][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/6AEU20K3O6PI8ZDSX05NBO7F909F1948BF405312C1698BC91CF133.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/B/06/6AEU20K3O6PI8ZDSX05NBO.uasset'
+[2025.04.10-10.25.07:974][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/7/8M/9TAYQNRWPYGDH73NN7C6VA
+[2025.04.10-10.25.07:974][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/9TAYQNRWPYGDH73NN7C6VAC91F95CA4B7A0962DE30018471886F81.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/7/8M/9TAYQNRWPYGDH73NN7C6VA.uasset'
+[2025.04.10-10.25.07:995][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/6/RS/7ETBW3WUI11YDR1N80AE4Y
+[2025.04.10-10.25.07:995][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/7ETBW3WUI11YDR1N80AE4Y5697235D4B5F768465505D99BE707987.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/6/RS/7ETBW3WUI11YDR1N80AE4Y.uasset'
+[2025.04.10-10.25.08:017][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/2/0H/FL5W1245YIG78V6US0X217
+[2025.04.10-10.25.08:017][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/FL5W1245YIG78V6US0X217D25CF3A549EF94B8908DB696B29480F3.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/2/0H/FL5W1245YIG78V6US0X217.uasset'
+[2025.04.10-10.25.08:045][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/7/QW/YC8KLGIVHH3CX2H8OCS7PK
+[2025.04.10-10.25.08:045][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/YC8KLGIVHH3CX2H8OCS7PKC3F9D2224DC3A910700461A8E74C9E51.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/7/QW/YC8KLGIVHH3CX2H8OCS7PK.uasset'
+[2025.04.10-10.25.08:065][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/F/2U/8DIRFWTXN6ZM1UCAVOJHEQ
+[2025.04.10-10.25.08:065][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/8DIRFWTXN6ZM1UCAVOJHEQ57C21E804B4678D3A1DFF6BBFC9D73B2.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/F/2U/8DIRFWTXN6ZM1UCAVOJHEQ.uasset'
+[2025.04.10-10.25.08:087][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/C/MC/FM7Y2YPC25IXK3DI932846
+[2025.04.10-10.25.08:087][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/FM7Y2YPC25IXK3DI932846D006A1AA48D5B33EA8FE9B8C5F6A154E.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/C/MC/FM7Y2YPC25IXK3DI932846.uasset'
+[2025.04.10-10.25.08:110][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/B/4P/2HUYGRD7DDGL7IBM8SAH6W
+[2025.04.10-10.25.08:110][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/2HUYGRD7DDGL7IBM8SAH6W11ED50DB4AFAA3E8FD0289A0ACFC70A6.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/B/4P/2HUYGRD7DDGL7IBM8SAH6W.uasset'
+[2025.04.10-10.25.08:132][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/C/8Q/4KQS6LGLC5MCGWXPM9C2SQ
+[2025.04.10-10.25.08:132][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/4KQS6LGLC5MCGWXPM9C2SQDFE2407F418D2EFB97EFE9A74E6F8C2F.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/C/8Q/4KQS6LGLC5MCGWXPM9C2SQ.uasset'
+[2025.04.10-10.25.08:152][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/A/6W/8PBJMQRYV8SW3IPU8TCOFO
+[2025.04.10-10.25.08:152][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/8PBJMQRYV8SW3IPU8TCOFO9D539E6A449A253DB43CDAB00FDC9F24.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/A/6W/8PBJMQRYV8SW3IPU8TCOFO.uasset'
+[2025.04.10-10.25.08:182][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/0/YA/ABPYSDA7SLBCJXBOVOV50I
+[2025.04.10-10.25.08:182][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/ABPYSDA7SLBCJXBOVOV50IB55E896B41843F5C5D72AAA198D86D00.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/0/YA/ABPYSDA7SLBCJXBOVOV50I.uasset'
+[2025.04.10-10.25.08:205][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/0/PL/CXWPKS26G4TY6ILDPA6YNR
+[2025.04.10-10.25.08:206][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/CXWPKS26G4TY6ILDPA6YNR0F7089354B7AE9BA7EDE22A3F14A919E.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/0/PL/CXWPKS26G4TY6ILDPA6YNR.uasset'
+[2025.04.10-10.25.08:225][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/7/U6/OCQZNLCAO9FTES2HYFUITV
+[2025.04.10-10.25.08:225][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/OCQZNLCAO9FTES2HYFUITVC563D00D485639E6DD502CA07E2E0A30.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/7/U6/OCQZNLCAO9FTES2HYFUITV.uasset'
+[2025.04.10-10.25.08:228][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/4/UM/HIGS7VNR08XRT533S06WUV
+[2025.04.10-10.25.08:228][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/HIGS7VNR08XRT533S06WUV87E452A042AA1008F953B29797C05F6D.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/4/UM/HIGS7VNR08XRT533S06WUV.uasset'
+[2025.04.10-10.25.08:241][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/0/AG/B9MTLMH2R1U139QQ9F2TOU
+[2025.04.10-10.25.08:241][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/B9MTLMH2R1U139QQ9F2TOU9BE95B1B4B1FA9EEA39F0BBEBA7B2859.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/0/AG/B9MTLMH2R1U139QQ9F2TOU.uasset'
+[2025.04.10-10.25.08:251][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/2/B4/YXJZTCJ7YSOTI9DRJHO1FJ
+[2025.04.10-10.25.08:251][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/YXJZTCJ7YSOTI9DRJHO1FJ05A497F148F05CA887CEE4BA1D019CAC.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/2/B4/YXJZTCJ7YSOTI9DRJHO1FJ.uasset'
+[2025.04.10-10.25.08:261][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/C/N3/K92M9A9FVC8RSCOLPIG1KM
+[2025.04.10-10.25.08:261][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/K92M9A9FVC8RSCOLPIG1KM9F77D663495737513259ECAEA31FAF41.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/C/N3/K92M9A9FVC8RSCOLPIG1KM.uasset'
+[2025.04.10-10.25.08:287][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/B/D5/AWGQTETO7RI9BUAK02XXOS
+[2025.04.10-10.25.08:287][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/AWGQTETO7RI9BUAK02XXOS6964E96A4A0C81DE48E23EABDC9C36DB.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/B/D5/AWGQTETO7RI9BUAK02XXOS.uasset'
+[2025.04.10-10.25.08:304][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/D/21/K1R8WK2RBYO12IBKF1BGLS
+[2025.04.10-10.25.08:304][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/K1R8WK2RBYO12IBKF1BGLSFF18E133412213B3CA91CE997C55D953.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/D/21/K1R8WK2RBYO12IBKF1BGLS.uasset'
+[2025.04.10-10.25.08:321][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/8/3T/4REO60LFW2NZ8V6Z50BWBE
+[2025.04.10-10.25.08:321][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/4REO60LFW2NZ8V6Z50BWBE5DAFCB0D4D828E483DF6579BAA485FEE.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/8/3T/4REO60LFW2NZ8V6Z50BWBE.uasset'
+[2025.04.10-10.25.08:329][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/6/L9/TZXJ9NR25KSVACTZB712ML
+[2025.04.10-10.25.08:329][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/TZXJ9NR25KSVACTZB712ML6D9ECEF04FAFBB9584BFC58ECA5335F6.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/6/L9/TZXJ9NR25KSVACTZB712ML.uasset'
+[2025.04.10-10.25.08:342][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/0/DS/BA0SMPG7U1N2H6QA65CYFB
+[2025.04.10-10.25.08:342][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/BA0SMPG7U1N2H6QA65CYFB2452008A45794E7A90C218822E8B8342.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/0/DS/BA0SMPG7U1N2H6QA65CYFB.uasset'
+[2025.04.10-10.25.08:359][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/4/3R/H9WBRRMG2ULOQD23LPR0YR
+[2025.04.10-10.25.08:359][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/H9WBRRMG2ULOQD23LPR0YREEC618C44575A64430367BAA04CAA3E5.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/4/3R/H9WBRRMG2ULOQD23LPR0YR.uasset'
+[2025.04.10-10.25.08:371][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/7/XZ/HIDLAKKIVM079X08XMOLNW
+[2025.04.10-10.25.08:371][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/HIDLAKKIVM079X08XMOLNW55221C274B163EBC1458C4B6AEAF12CE.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/7/XZ/HIDLAKKIVM079X08XMOLNW.uasset'
+[2025.04.10-10.25.08:388][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/4/9M/1R3XYE6ZL8W2L8ZNBI31LY
+[2025.04.10-10.25.08:388][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/1R3XYE6ZL8W2L8ZNBI31LY00126EEF45BF9FC6EBF01A94C3676701.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/4/9M/1R3XYE6ZL8W2L8ZNBI31LY.uasset'
+[2025.04.10-10.25.08:407][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/2/NC/IJ6ENAN4WEFPH54KYN9SP0
+[2025.04.10-10.25.08:407][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/IJ6ENAN4WEFPH54KYN9SP0E20ED35A4010BC42E9C5A08A950332B7.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/2/NC/IJ6ENAN4WEFPH54KYN9SP0.uasset'
+[2025.04.10-10.25.08:415][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/2/VZ/HFQKHM9598IB8VXFX4E1BB
+[2025.04.10-10.25.08:415][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/HFQKHM9598IB8VXFX4E1BBE8BD9AB4492AD7DDD075DD9C77F2A4D4.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/2/VZ/HFQKHM9598IB8VXFX4E1BB.uasset'
+[2025.04.10-10.25.08:424][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/1/AB/IE424BJ1W6U9THOU26ZANW
+[2025.04.10-10.25.08:424][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/IE424BJ1W6U9THOU26ZANWB26DE02246C5B0B3C461A39B0D9CD5E9.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/1/AB/IE424BJ1W6U9THOU26ZANW.uasset'
+[2025.04.10-10.25.08:431][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/7/MZ/EPMQ31IMYXMEQSCNUOUZH9
+[2025.04.10-10.25.08:431][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/EPMQ31IMYXMEQSCNUOUZH98E685D8940A3C126F7D7588D7A989CA9.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/7/MZ/EPMQ31IMYXMEQSCNUOUZH9.uasset'
+[2025.04.10-10.25.08:441][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/0/Q5/KW25WBR2BFU1O8UH4E7VKJ
+[2025.04.10-10.25.08:441][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/KW25WBR2BFU1O8UH4E7VKJ940BD9104070C847386658916852C367.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/0/Q5/KW25WBR2BFU1O8UH4E7VKJ.uasset'
+[2025.04.10-10.25.08:450][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/4/HX/7QRL1NL2JADRAUCH9V7DS7
+[2025.04.10-10.25.08:450][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/7QRL1NL2JADRAUCH9V7DS706110D2A4908C0460146D79958B05EFD.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/4/HX/7QRL1NL2JADRAUCH9V7DS7.uasset'
+[2025.04.10-10.25.08:462][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/E/JC/Y9K163PK1V4W4WEBOFJGJS
+[2025.04.10-10.25.08:462][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/Y9K163PK1V4W4WEBOFJGJS9D42529846530A8E76C80ABA0C34065B.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/E/JC/Y9K163PK1V4W4WEBOFJGJS.uasset'
+[2025.04.10-10.25.08:473][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/A/EN/PDV78ZJ40TIEV4TBKZGS5G
+[2025.04.10-10.25.08:473][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/PDV78ZJ40TIEV4TBKZGS5GB89B658B4EC5109CCBC70790CD7154FB.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/A/EN/PDV78ZJ40TIEV4TBKZGS5G.uasset'
+[2025.04.10-10.25.08:483][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/5/I0/LKMYASQ8J1UWTWPY6EEYI9
+[2025.04.10-10.25.08:483][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/LKMYASQ8J1UWTWPY6EEYI9BF11E71D4ABB4C45598673B3401315C8.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/5/I0/LKMYASQ8J1UWTWPY6EEYI9.uasset'
+[2025.04.10-10.25.08:498][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/8/BU/NANZAQEB7EN5JD34ON3HAU
+[2025.04.10-10.25.08:498][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/NANZAQEB7EN5JD34ON3HAU5158BE854CB8E3E0EDAA9AB955EB68A3.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/8/BU/NANZAQEB7EN5JD34ON3HAU.uasset'
+[2025.04.10-10.25.08:511][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/3/QS/F203B2IUZPZ3UWCPB5585E
+[2025.04.10-10.25.08:511][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/F203B2IUZPZ3UWCPB5585E92A3EEFE4726E1173F538BA5BF8BF6F5.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/3/QS/F203B2IUZPZ3UWCPB5585E.uasset'
+[2025.04.10-10.25.08:527][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/8/3D/1ALJSW76JQFRCJGOMD1K85
+[2025.04.10-10.25.08:527][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/1ALJSW76JQFRCJGOMD1K853DB4B5024762297F61A1B1AC0BBEFF40.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/8/3D/1ALJSW76JQFRCJGOMD1K85.uasset'
+[2025.04.10-10.25.08:539][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/B/6G/A8IXTAU21HG8LAJU0AURN5
+[2025.04.10-10.25.08:539][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/A8IXTAU21HG8LAJU0AURN535AB0E114622701E0A99CF8DFB87DCD1.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/B/6G/A8IXTAU21HG8LAJU0AURN5.uasset'
+[2025.04.10-10.25.08:548][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/6/5X/QWHJX1RSJ6221Y9TP0L9TM
+[2025.04.10-10.25.08:548][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/QWHJX1RSJ6221Y9TP0L9TM956970C04837339BBB36B5918440F37B.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/6/5X/QWHJX1RSJ6221Y9TP0L9TM.uasset'
+[2025.04.10-10.25.08:569][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/1/E3/RYQ6RVXKMS3X4ADWBE7EYW
+[2025.04.10-10.25.08:569][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/RYQ6RVXKMS3X4ADWBE7EYWC86C27FD4E65A85C16E4AB8DED166684.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/1/E3/RYQ6RVXKMS3X4ADWBE7EYW.uasset'
+[2025.04.10-10.25.08:580][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/9/EM/C8VRKEM1GIKLV43UWYVT6D
+[2025.04.10-10.25.08:580][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/C8VRKEM1GIKLV43UWYVT6D58F44B974003BD90F373728B3019AB76.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/9/EM/C8VRKEM1GIKLV43UWYVT6D.uasset'
+[2025.04.10-10.25.08:590][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/B/YS/95BWL3BBYOGJ912BGOR8QH
+[2025.04.10-10.25.08:590][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/95BWL3BBYOGJ912BGOR8QHA95DE4374F756CF48E331596074D59FB.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/B/YS/95BWL3BBYOGJ912BGOR8QH.uasset'
+[2025.04.10-10.25.08:601][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/4/QO/ZCCYT49TXSV8YPVV8QXG7M
+[2025.04.10-10.25.08:601][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/ZCCYT49TXSV8YPVV8QXG7M6858C103433CCDCA762E42BB4A56A5AF.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/4/QO/ZCCYT49TXSV8YPVV8QXG7M.uasset'
+[2025.04.10-10.25.08:611][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/3/PI/23BMSDBNER8KSBI5ZXXGYR
+[2025.04.10-10.25.08:611][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/23BMSDBNER8KSBI5ZXXGYR2EFBE86442664DDEDF57A4BC61C2228E.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/3/PI/23BMSDBNER8KSBI5ZXXGYR.uasset'
+[2025.04.10-10.25.08:621][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/C/GC/B9NR1ME8WRE0HO7BGDGILD
+[2025.04.10-10.25.08:621][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/B9NR1ME8WRE0HO7BGDGILD67A888774F57265E85884EAA4A8AF38E.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/C/GC/B9NR1ME8WRE0HO7BGDGILD.uasset'
+[2025.04.10-10.25.08:630][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/1/16/KDZM9EUUWAF2AQL5QGO85Z
+[2025.04.10-10.25.08:630][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/KDZM9EUUWAF2AQL5QGO85ZCD57A2594B1A562424330981E72B1E17.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/1/16/KDZM9EUUWAF2AQL5QGO85Z.uasset'
+[2025.04.10-10.25.08:638][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/C/QZ/M5CNDFIWIF2JUJXBLD2Y0V
+[2025.04.10-10.25.08:638][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/M5CNDFIWIF2JUJXBLD2Y0VDABEBF804C987BA0F09DA5B18F48DAAE.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/C/QZ/M5CNDFIWIF2JUJXBLD2Y0V.uasset'
+[2025.04.10-10.25.08:647][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/1/NM/RDLA2YRPBK0IQTKJFMMXOU
+[2025.04.10-10.25.08:647][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/RDLA2YRPBK0IQTKJFMMXOU7A0B4C2D444033E90B578EB7CF3E558A.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/1/NM/RDLA2YRPBK0IQTKJFMMXOU.uasset'
+[2025.04.10-10.25.08:655][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/6/ZH/I95BCDNL5F4E2T6804EQRP
+[2025.04.10-10.25.08:655][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/I95BCDNL5F4E2T6804EQRPA9BE4166462158B6BB82B58CFE59EE15.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/6/ZH/I95BCDNL5F4E2T6804EQRP.uasset'
+[2025.04.10-10.25.08:665][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/2/A0/U7IBUXG4U8YIKEPLFMN4SU
+[2025.04.10-10.25.08:665][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/U7IBUXG4U8YIKEPLFMN4SUD0C27D4C4A005F3A66BDF7BC7FB936DD.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/2/A0/U7IBUXG4U8YIKEPLFMN4SU.uasset'
+[2025.04.10-10.25.08:684][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/2/1M/3ZEAINP3JJ9FH3RRWL7UJ9
+[2025.04.10-10.25.08:684][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/3ZEAINP3JJ9FH3RRWL7UJ9B0B3D0F4418DC4C03A57EC85A1B1A9EB.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/2/1M/3ZEAINP3JJ9FH3RRWL7UJ9.uasset'
+[2025.04.10-10.25.08:698][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/5/RB/6O38GF4BYFBEUV2W61NHAZ
+[2025.04.10-10.25.08:698][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/6O38GF4BYFBEUV2W61NHAZBEE2C89B40B3E7F6163103A42DA4E476.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/5/RB/6O38GF4BYFBEUV2W61NHAZ.uasset'
+[2025.04.10-10.25.08:715][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/C/BZ/AO291QHWNPXEYNJMLMXSFZ
+[2025.04.10-10.25.08:715][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/AO291QHWNPXEYNJMLMXSFZ9036A021460D39E5A1ED55AF4A1C04F3.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/C/BZ/AO291QHWNPXEYNJMLMXSFZ.uasset'
+[2025.04.10-10.25.08:726][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/8/QA/K93ZJZYRIEWIAFNIYKDN7N
+[2025.04.10-10.25.08:726][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/K93ZJZYRIEWIAFNIYKDN7NDD979E4D4E47F696CA9FBD818FDFFC1A.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/8/QA/K93ZJZYRIEWIAFNIYKDN7N.uasset'
+[2025.04.10-10.25.08:740][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/6/QX/U8MLOL5Q4F9UNSSFPJSCRA
+[2025.04.10-10.25.08:740][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/U8MLOL5Q4F9UNSSFPJSCRA6300C90A45EAE32738BD478A3FF857AF.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/6/QX/U8MLOL5Q4F9UNSSFPJSCRA.uasset'
+[2025.04.10-10.25.08:751][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/C/2W/HQW6Z0077DIAZD7QM0SZOC
+[2025.04.10-10.25.08:751][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/HQW6Z0077DIAZD7QM0SZOCBFC8DE0749A8686F8E05C4A28DB387DD.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/C/2W/HQW6Z0077DIAZD7QM0SZOC.uasset'
+[2025.04.10-10.25.08:774][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/9/9Q/OWWJ7ISWVURBV74ADUUYZC
+[2025.04.10-10.25.08:775][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/OWWJ7ISWVURBV74ADUUYZC93B40FFF448EAD2C5B7B908E1C256C00.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/9/9Q/OWWJ7ISWVURBV74ADUUYZC.uasset'
+[2025.04.10-10.25.08:785][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/C/X8/U46AOQB50UXA2E83RTLYTS
+[2025.04.10-10.25.08:785][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/U46AOQB50UXA2E83RTLYTSD7806E944A00655663995A956FEA1FB3.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/C/X8/U46AOQB50UXA2E83RTLYTS.uasset'
+[2025.04.10-10.25.08:803][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/5/KW/TXGCQPDVM1E949N9GWKW43
+[2025.04.10-10.25.08:803][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/TXGCQPDVM1E949N9GWKW4322E3C3C14E53E1FA12DE1199B01BE6A0.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/5/KW/TXGCQPDVM1E949N9GWKW43.uasset'
+[2025.04.10-10.25.08:814][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/8/QD/QDEFZ102OXKKSIAI8GU0X2
+[2025.04.10-10.25.08:814][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/QDEFZ102OXKKSIAI8GU0X291D562AD45F3C155D1BA37837730C1CB.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/8/QD/QDEFZ102OXKKSIAI8GU0X2.uasset'
+[2025.04.10-10.25.08:827][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/2/2B/17IAXYR3DH3695OGG7HMM7
+[2025.04.10-10.25.08:827][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/17IAXYR3DH3695OGG7HMM737841D494E4523582427028A308F3C10.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/2/2B/17IAXYR3DH3695OGG7HMM7.uasset'
+[2025.04.10-10.25.08:837][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/D/O9/KVH92R0P7BPC529YXDPCC9
+[2025.04.10-10.25.08:837][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/KVH92R0P7BPC529YXDPCC910A4BD8044A5CF675EDA09B5EF2EB0F6.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/D/O9/KVH92R0P7BPC529YXDPCC9.uasset'
+[2025.04.10-10.25.08:852][100]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level2/1/FU/IOEU4TEESF4QNZA21NG9W8
+[2025.04.10-10.25.08:852][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/IOEU4TEESF4QNZA21NG9W86A00BF6446BD752CDE70DC8B07BAD63C.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/__ExternalActors__/Level2/1/FU/IOEU4TEESF4QNZA21NG9W8.uasset'
+[2025.04.10-10.25.08:857][100]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.30 sec (total: 3.06 sec)
+[2025.04.10-10.25.08:863][100]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Level2_HLOD0_Instancing
+/Game/__ExternalActors__/Level2/7/7W/95ITC9JELXX8WY33WCJKTQ
+/Game/__ExternalObjects__/Level2/4/34/JQDFJ533DYE0T5XGAVOGYE
+/Game/__ExternalObjects__/Level2/5/9C/8A4PNOG7WCX4TT4LGSSEAY
+/Game/__ExternalObjects__/Level2/2/VQ/XBA50IBIPWW9PCGKIYO5DK
+/Game/__ExternalObjects__/Level2/C/F7/UX6DHU73KHNZJE7W9AMO5I
+/Game/__ExternalObjects__/Level2/9/DE/Y7OTBW4TXUEX06G9ER5CA8
+/Game/__ExternalObjects__/Level2/6/SY/TE2TLOJIYVO9N80VCF9XYV
+/Game/__ExternalActors__/Level2/1/11/C25REABNUFPUB21XFFVVOR
+/Game/__ExternalActors__/Level2/7/UO/ANVB7GCHHATB740R61LQBX
+/Game/__ExternalActors__/Level2/3/AI/Z1Z11TBCCZ226W9YS0MG5I
+/Game/__ExternalActors__/Level2/4/NS/1TBHEVPY6WP0NOSND6J7LN
+/Game/__ExternalActors__/Level2/E/BZ/9PUMS12MGJ33Z9VY2GO0YG
+/Game/__ExternalActors__/Level2/4/Z5/NP41I539J0C1ZM25W4VFHD
+/Game/__ExternalActors__/Level2/5/90/S2ER8R11HIH1LPB1T2ZQ4K
+/Game/__ExternalActors__/Level2/2/UV/ZIKUQ54FXRM8XOORGJ5F7Z
+/Game/__ExternalActors__/Level2/0/YV/2EJ3GVSDC6BGQKQKOKFLW6
+/Game/__ExternalActors__/Level2/E/IY/OCAAGN0RKV77UPWN4AIHRO
+/Game/__ExternalActors__/Level2/2/OH/BZHVOUOMSEKUC9RZHEZCZU
+/Game/__ExternalActors__/Level2/0/7B/0KPVOBTUNNLCAJGOZRIA7P
+/Game/__ExternalActors__/Level2/D/BV/PA71768MPVE0KJZOWU1RLD
+/Game/__ExternalActors__/Level2/6/1G/DS2DH58EW0IDT85NEQE6R8
+/Game/__ExternalActors__/Level2/0/CU/FOXA1J7FVZQ6YA5MB0REPB
+/Game/__ExternalActors__/Level2/3/X3/CHSU4G0NOAKKE0QYWXP3JV
+/Game/__ExternalActors__/Level2/B/A8/OH57NNP9QILGLSEMHMTVS7
+/Game/__ExternalActors__/Level2/B/PC/WGUBPPKA21E3FK9CE9JKAE
+/Game/__ExternalActors__/Level2/E/98/Y2Y3U58GMH9OK17TI207BF
+/Game/__ExternalActors__/Level2/C/9M/9ED0QEMKBCR48UZQO3VG2S
+/Game/__ExternalActors__/Level2/6/DQ/XVIQVMRHBMCLJ4G7IHIVNJ
+/Game/__ExternalActors__/Level2/6/6Y/FB3QQV65RFWZO61GKZE6N0
+/Game/__ExternalActors__/Level2/9/M5/EU3Y5BZSPQWSKIKBQ6O9O9
+/Game/__ExternalActors__/Level2/2/0F/AHFO8HPOUXW345IMDDMKAG
+/Game/__ExternalActors__/Level2/1/00/K240FNU3GJ79ANAX0KCPEF
+/Game/__ExternalActors__/Level2/6/E6/JPZLALQOKBNZY2U3ZVNNWK
+/Game/__ExternalActors__/Level2/3/MX/ZMTP19ZIHAJP0Y32XQOF7R
+/Game/__ExternalActors__/Level2/1/NP/0JVV3TD5LJYIOT25HRHRTR
+/Game/__ExternalActors__/Level2/1/ZC/OYCACR1DT28SHG3VOGL87R
+/Game/__ExternalActors__/Level2/A/M2/IAIKQVNL61S8VJV280AUAI
+/Game/__ExternalActors__/Level2/B/QH/9DT6ENXDR7FU3UVGRA6WQ4
+/Game/__ExternalActors__/Level2/2/2P/NPO06JP8SM9NU7J6BGE35W
+/Game/__ExternalActors__/Level2/3/P5/NE3556ZUY2N11EST25B7FU
+/Game/__ExternalActors__/Level2/B/CD/BWYE4OB36E6SCOEW6OGA8X
+/Game/__ExternalActors__/Level2/4/P1/4QP45CLTIGYY51VQWRTK7N
+/Game/__ExternalActors__/Level2/A/4M/48G5WBJ8GDJOOT4TJMNO3Z
+/Game/__ExternalActors__/Level2/4/Z6/4OMV48EPU05W1RUQC97W80
+/Game/__ExternalActors__/Level2/A/2K/05E2SQ84AB4FW0FKIP3CFJ
+/Game/__ExternalActors__/Level2/4/0V/8A18E5WI1IZM4YS4Z7GX18
+/Game/__ExternalActors__/Level2/2/GG/9ZFPJA54HV0Y70WWQ2WIML
+/Game/__ExternalActors__/Level2/2/YP/RVKD1T47YF0B9B0ZZE77H7
+/Game/__ExternalActors__/Level2/6/UQ/80FXBU8IP1RLOAVK1E78JN
+/Game/__ExternalActors__/Level2/E/27/XP0H4BC7CA9XY2EPB969BM
+/Game/__ExternalActors__/Level2/B/H6/HDNW5MDHXVLUZ9MBD2AESX
+/Game/__ExternalActors__/Level2/5/S0/N7AI4SIUQTRYY63VWQOXZ9
+/Game/__ExternalActors__/Level2/1/8Y/COO2442QGSDUEBQC1WQ884
+/Game/__ExternalActors__/Level2/B/BK/TC4W1LTJM04NPR103YG2JC
+/Game/__ExternalActors__/Level2/3/QH/TK5DVRV0XOLAO8PZBDEOG9
+/Game/__ExternalActors__/Level2/9/JO/TMKUY28XAAS9T4IP2OP0R6
+/Game/__ExternalActors__/Level2/0/E8/YVFDI5MZNWR40BN5697L8S
+/Game/__ExternalActors__/Level2/E/WC/EWFMRZ66G2KKPFULM78MMY
+/Game/__ExternalActors__/Level2/D/1C/MF6U4T6ZNQYIASE5DG9BB6
+/Game/__ExternalActors__/Level2/8/SJ/W3UXB9D59TE5A29QG5P1ZZ
+/Game/__ExternalActors__/Level2/D/G3/EMN6XPR6AZLAXKAWXDODHG
+/Game/__ExternalActors__/Level2/E/OF/52O2MPIB1YBSWUV903GVK7
+/Game/__ExternalActors__/Level2/6/XM/L03PA9ID50FOZO4E26WSS2
+/Game/__ExternalActors__/Level2/1/CD/UYA4IRIHA8HUX725PRI2E0
+/Game/__ExternalActors__/Level2/B/O3/HQO5RJEDA15W2CFXGP60TG
+/Game/__ExternalActors__/Level2/D/B0/HK3PRYZ7ST4I55VGGTT086
+/Game/__ExternalActors__/Level2/6/JG/WSLP5XG1NI8NS41JQVO0ZL
+/Game/__ExternalActors__/Level2/B/06/6AEU20K3O6PI8ZDSX05NBO
+/Game/__ExternalActors__/Level2/7/8M/9TAYQNRWPYGDH73NN7C6VA
+/Game/__ExternalActors__/Level2/6/RS/7ETBW3WUI11YDR1N80AE4Y
+/Game/__ExternalActors__/Level2/2/0H/FL5W1245YIG78V6US0X217
+/Game/__ExternalActors__/Level2/7/QW/YC8KLGIVHH3CX2H8OCS7PK
+/Game/__ExternalActors__/Level2/F/2U/8DIRFWTXN6ZM1UCAVOJHEQ
+/Game/__ExternalActors__/Level2/C/MC/FM7Y2YPC25IXK3DI932846
+/Game/__ExternalActors__/Level2/B/4P/2HUYGRD7DDGL7IBM8SAH6W
+/Game/__ExternalActors__/Level2/C/8Q/4KQS6LGLC5MCGWXPM9C2SQ
+/Game/__ExternalActors__/Level2/A/6W/8PBJMQRYV8SW3IPU8TCOFO
+/Game/__ExternalActors__/Level2/0/YA/ABPYSDA7SLBCJXBOVOV50I
+/Game/__ExternalActors__/Level2/0/PL/CXWPKS26G4TY6ILDPA6YNR
+/Game/__ExternalActors__/Level2/7/U6/OCQZNLCAO9FTES2HYFUITV
+/Game/__ExternalActors__/Level2/4/UM/HIGS7VNR08XRT533S06WUV
+/Game/__ExternalActors__/Level2/0/AG/B9MTLMH2R1U139QQ9F2TOU
+/Game/__ExternalActors__/Level2/2/B4/YXJZTCJ7YSOTI9DRJHO1FJ
+/Game/__ExternalActors__/Level2/C/N3/K92M9A9FVC8RSCOLPIG1KM
+/Game/__ExternalActors__/Level2/B/D5/AWGQTETO7RI9BUAK02XXOS
+/Game/__ExternalActors__/Level2/D/21/K1R8WK2RBYO12IBKF1BGLS
+/Game/__ExternalActors__/Level2/8/3T/4REO60LFW2NZ8V6Z50BWBE
+/Game/__ExternalActors__/Level2/6/L9/TZXJ9NR25KSVACTZB712ML
+/Game/__ExternalActors__/Level2/0/DS/BA0SMPG7U1N2H6QA65CYFB
+/Game/__ExternalActors__/Level2/4/3R/H9WBRRMG2ULOQD23LPR0YR
+/Game/__ExternalActors__/Level2/7/XZ/HIDLAKKIVM079X08XMOLNW
+/Game/__ExternalActors__/Level2/4/9M/1R3XYE6ZL8W2L8ZNBI31LY
+/Game/__ExternalActors__/Level2/2/NC/IJ6ENAN4WEFPH54KYN9SP0
+/Game/__ExternalActors__/Level2/2/VZ/HFQKHM9598IB8VXFX4E1BB
+/Game/__ExternalActors__/Level2/1/AB/IE424BJ1W6U9THOU26ZANW
+/Game/__ExternalActors__/Level2/7/MZ/EPMQ31IMYXMEQSCNUOUZH9
+/Game/__ExternalActors__/Level2/0/Q5/KW25WBR2BFU1O8UH4E7VKJ
+/Game/__ExternalActors__/Level2/4/HX/7QRL1NL2JADRAUCH9V7DS7
+/Game/__ExternalActors__/Level2/E/JC/Y9K163PK1V4W4WEBOFJGJS
+/Game/__ExternalActors__/Level2/A/EN/PDV78ZJ40TIEV4TBKZGS5G
+/Game/__ExternalActors__/Level2/5/I0/LKMYASQ8J1UWTWPY6EEYI9
+/Game/__ExternalActors__/Level2/8/BU/NANZAQEB7EN5JD34ON3HAU
+/Game/__ExternalActors__/Level2/3/QS/F203B2IUZPZ3UWCPB5585E
+/Game/__ExternalActors__/Level2/8/3D/1ALJSW76JQFRCJGOMD1K85
+/Game/__ExternalActors__/Level2/B/6G/A8IXTAU21HG8LAJU0AURN5
+/Game/__ExternalActors__/Level2/6/5X/QWHJX1RSJ6221Y9TP0L9TM
+/Game/__ExternalActors__/Level2/1/E3/RYQ6RVXKMS3X4ADWBE7EYW
+/Game/__ExternalActors__/Level2/9/EM/C8VRKEM1GIKLV43UWYVT6D
+/Game/__ExternalActors__/Level2/B/YS/95BWL3BBYOGJ912BGOR8QH
+/Game/__ExternalActors__/Level2/4/QO/ZCCYT49TXSV8YPVV8QXG7M
+/Game/__ExternalActors__/Level2/3/PI/23BMSDBNER8KSBI5ZXXGYR
+/Game/__ExternalActors__/Level2/C/GC/B9NR1ME8WRE0HO7BGDGILD
+/Game/__ExternalActors__/Level2/1/16/KDZM9EUUWAF2AQL5QGO85Z
+/Game/__ExternalActors__/Level2/C/QZ/M5CNDFIWIF2JUJXBLD2Y0V
+/Game/__ExternalActors__/Level2/1/NM/RDLA2YRPBK0IQTKJFMMXOU
+/Game/__ExternalActors__/Level2/6/ZH/I95BCDNL5F4E2T6804EQRP
+/Game/__ExternalActors__/Level2/2/A0/U7IBUXG4U8YIKEPLFMN4SU
+/Game/__ExternalActors__/Level2/2/1M/3ZEAINP3JJ9FH3RRWL7UJ9
+/Game/__ExternalActors__/Level2/5/RB/6O38GF4BYFBEUV2W61NHAZ
+/Game/__ExternalActors__/Level2/C/BZ/AO291QHWNPXEYNJMLMXSFZ
+/Game/__ExternalActors__/Level2/8/QA/K93ZJZYRIEWIAFNIYKDN7N
+/Game/__ExternalActors__/Level2/6/QX/U8MLOL5Q4F9UNSSFPJSCRA
+/Game/__ExternalActors__/Level2/C/2W/HQW6Z0077DIAZD7QM0SZOC
+/Game/__ExternalActors__/Level2/9/9Q/OWWJ7ISWVURBV74ADUUYZC
+/Game/__ExternalActors__/Level2/C/X8/U46AOQB50UXA2E83RTLYTS
+/Game/__ExternalActors__/Level2/5/KW/TXGCQPDVM1E949N9GWKW43
+/Game/__ExternalActors__/Level2/8/QD/QDEFZ102OXKKSIAI8GU0X2
+/Game/__ExternalActors__/Level2/2/2B/17IAXYR3DH3695OGG7HMM7
+/Game/__ExternalActors__/Level2/D/O9/KVH92R0P7BPC529YXDPCC9
+/Game/__ExternalActors__/Level2/1/FU/IOEU4TEESF4QNZA21NG9W8
+[2025.04.10-10.25.08:976][100]LogFileHelpers: Saving map 'Level2' took 2.710
+[2025.04.10-10.25.09:050][100]LogSavePackage: Moving output files for package: /Game/crates/textures/cratesSpecular
+[2025.04.10-10.25.09:050][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/cratesSpecular7FAC0E0D4761DF0CCCA37C92E9D9AC8F.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/crates/textures/cratesSpecular.uasset'
+[2025.04.10-10.25.09:054][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crates/textures/cratesAlbedo" FILE="../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/crates/textures/cratesAlbedo.uasset" SILENT=true
+[2025.04.10-10.25.09:125][100]LogSavePackage: Moving output files for package: /Game/crates/textures/cratesAlbedo
+[2025.04.10-10.25.09:125][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/cratesAlbedoFC6A53D94A1B21E3006F3DB67ABE27AA.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/crates/textures/cratesAlbedo.uasset'
+[2025.04.10-10.25.09:128][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/crates/textures/cratesormal" FILE="../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/crates/textures/cratesormal.uasset" SILENT=true
+[2025.04.10-10.25.09:206][100]LogSavePackage: Moving output files for package: /Game/crates/textures/cratesormal
+[2025.04.10-10.25.09:206][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/cratesormal08971DCF4FC6B9E3305B7E80F3F4C057.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/crates/textures/cratesormal.uasset'
+[2025.04.10-10.25.09:321][100]LogSavePackage: Moving output files for package: /Game/crates/source/crates/source/crates
+[2025.04.10-10.25.09:322][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/cratesC217C2934855BA26B6497DAFF6F3D5C3.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/crates/source/crates/source/crates.uasset'
+[2025.04.10-10.25.09:392][100]LogSavePackage: Moving output files for package: /Game/crates/source/crates/textures/cratesAlbedo
+[2025.04.10-10.25.09:392][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/cratesAlbedoB762EC8F44016B8845280A9ACC7BE07C.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/crates/source/crates/textures/cratesAlbedo.uasset'
+[2025.04.10-10.25.09:472][100]LogSavePackage: Moving output files for package: /Game/crates/source/crates/textures/cratesormal
+[2025.04.10-10.25.09:472][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/cratesormal53D20246492FEA1459ABDBAB3BA1E389.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/crates/source/crates/textures/cratesormal.uasset'
+[2025.04.10-10.25.09:534][100]LogSavePackage: Moving output files for package: /Game/crates/source/crates/textures/cratesSpecular
+[2025.04.10-10.25.09:534][100]LogSavePackage: Moving '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Saved/cratesSpecular40116EE94E8052CF07E28D9A06153C75.tmp' to '../../../../../../Users/s2312574/Desktop/GroupProjectGT605/Game/CollabGame/Content/crates/source/crates/textures/cratesSpecular.uasset'
+[2025.04.10-10.25.09:540][100]LogFileHelpers: InternalPromptForCheckoutAndSave took 17.0 sec (total: 20.1 sec)
+[2025.04.10-10.25.09:607][100]AssetCheck: New page: Asset Save: multiple assets
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level2.Level2
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.HLODLayer /Game/Level2_HLOD0_Instancing.Level2_HLOD0_Instancing
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.WorldDataLayers /Game/Level2.Level2:PersistentLevel.WorldDataLayers
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Level2.Level2:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Level2.Level2:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Level2.Level2:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Level2.Level2:PersistentLevel.ActorFolder_UID_C11A5F59-487C0DB2-AA58CABA-5DEDB377
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Level2.Level2:PersistentLevel.ActorFolder_UID_F0B34F1C-498F52BA-314B94B2-A472577C
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Level2.Level2:PersistentLevel.ActorFolder_UID_5D23A82E-411A5CFD-F61C6285-B0703174
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionMiniMap /Game/Level2.Level2:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/Level2.Level2:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level2.Level2:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.SkyAtmosphere /Game/Level2.Level2:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.SkyLight /Game/Level2.Level2:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/Level2.Level2:PersistentLevel.PlayerStart_UAID_F02F74551BF5599B01_1153002503
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.ExponentialHeightFog /Game/Level2.Level2:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Engine.VolumetricCloud /Game/Level2.Level2:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.Landscape /Game/Level2.Level2:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0
+[2025.04.10-10.25.09:607][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Level2.Level2:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level2.Level2:PersistentLevel.StaticMeshActor_UAID_A036BC3663A0885D02_1371398639
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_0000000061048ba5
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_000000007a1ec134
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_0000000047fd3b2b
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000a7e8df26
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000923b1f94
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_000000008429cf49
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_000000005ade2593
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_000000009100159d
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_0000000027100cbc
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_000000004985b47c
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000cf9074b0
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000456f111a
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_0000000002ff7cbc
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000e893856a
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000fdc49d15
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000e6f72a11
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000326281e7
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_0000000076832c01
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000e9f6f481
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_0000000077f7731e
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000462530dd
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_000000002a2da2ce
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000eef772e0
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000a0644c05
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_000000002cd92eb1
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_000000002387b43f
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_000000004fc1faed
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000ada93d64
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000195576f6
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000faffa43c
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_0000000061d8a24a
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_000000000479efcd
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000e95cf541
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_000000009ec32732
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000b1d9170c
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000be4f81c5
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_000000007ee1c9e3
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_0000000075fc1435
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_000000008074caed
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_000000007055a5f9
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000808a2d8c
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000ce61b913
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000ed334d9f
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000249b061a
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_0000000058c07e9c
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_0000000089b7cce8
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_0000000025e68ee6
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_00000000809b5cf8
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionHLOD /Game/Level2.Level2:PersistentLevel.HLOD0_Instancing_000000007e3ba091
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/crates/textures/cratesSpecular.cratesSpecular
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/crates/textures/cratesAlbedo.cratesAlbedo
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/crates/textures/cratesormal.cratesormal
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/crates/source/crates/source/crates.crates
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/crates/source/crates/textures/cratesAlbedo.cratesAlbedo
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/crates/source/crates/textures/cratesormal.cratesormal
+[2025.04.10-10.25.09:608][100]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/crates/source/crates/textures/cratesSpecular.cratesSpecular
+[2025.04.10-10.25.09:621][100]LogDerivedDataCache: C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/ff/16/d7bd0820f559fec9e8b5156f321a745b6faa.udd from '/Game/__ExternalActors__/Level2/C/N3/K92M9A9FVC8RSCOLPIG1KM.StaticMesh_HLOD0_Instancing_1'.
+[2025.04.10-10.25.09:622][100]LogDerivedDataCache: C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/bd/1a/315610048e288cb176789cc4ee183c108591.udd from '/Game/__ExternalActors__/Level2/0/AG/B9MTLMH2R1U139QQ9F2TOU.StaticMesh_HLOD0_Instancing_3'.
+[2025.04.10-10.25.09:686][102]LogDerivedDataCache: C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/e0/fa/94ac787998a40abcc0e4172d349276017d6a.udd from '/Game/__ExternalActors__/Level2/C/N3/K92M9A9FVC8RSCOLPIG1KM.StaticMesh_HLOD0_Instancing_1'.
+[2025.04.10-10.25.09:934][106]LogDerivedDataCache: C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/ec/20/a64eafb9396fefe3dfb408ce4d87e6862b31.udd from '/Game/__ExternalActors__/Level2/2/B4/YXJZTCJ7YSOTI9DRJHO1FJ.StaticMesh_HLOD0_Instancing_1'.
+[2025.04.10-10.25.10:390][146]LogDerivedDataCache: C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/14/29/a0074fb36df957f564370d14e6f219c6f879.udd from '/Game/__ExternalActors__/Level2/D/21/K1R8WK2RBYO12IBKF1BGLS.StaticMesh_HLOD0_Instancing_3'.
+[2025.04.10-10.25.10:417][149]LogDerivedDataCache: C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/11/4e/303014e3a2cdedd08cfc72f219f0da3f226b.udd from '/Game/__ExternalActors__/Level2/0/DS/BA0SMPG7U1N2H6QA65CYFB.StaticMesh_HLOD0_Instancing_1'.
+[2025.04.10-10.25.10:928][205]LogDerivedDataCache: C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/34/22/1e316eb7e1c8b4d15a905bc80391e8a58e89.udd from '/Game/__ExternalActors__/Level2/E/JC/Y9K163PK1V4W4WEBOFJGJS.StaticMesh_HLOD0_Instancing_1'.
+[2025.04.10-10.25.11:026][217]LogDerivedDataCache: C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/s2312574/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/9b/ed/479fc1a82642e417b8750e2c6fa7b92e9fda.udd from '/Game/__ExternalActors__/Level2/2/1M/3ZEAINP3JJ9FH3RRWL7UJ9.StaticMesh_HLOD0_Instancing_2'.
